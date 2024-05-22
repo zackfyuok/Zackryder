@@ -1,0 +1,16 @@
+{
+  "name": "m3u8-auto-recorder",
+  "version": "1.0.0",
+  "description": "Node.js script for automatically monitoring and recording M3U8 live streams.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "moment": "^2.30.1"
+  }
+}
