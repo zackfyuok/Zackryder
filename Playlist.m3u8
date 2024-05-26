@@ -123,3 +123,55 @@ https://liveaneviadev.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg",Star Sports Select 1
+http://103.120.172.74:1030
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg",Star Sports Select 2
+http://103.120.172.74:4700
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%201.png",Sony Sports Ten 1 HD
+http://starshare.live:8080/live/Sylvia/Sylvia/98861.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%202.png",Sony Sports Ten 2 HD
+http://starshare.live:8080/live/Sylvia/Sylvia/98862.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%203.png",Sony Sports Ten 3 HD
+http://starshare.live:8080/live/Sylvia/Sylvia/98863.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%204.png",Sony Sports Ten 4
+http://starshare.live:8080/live/Sylvia/Sylvia/29469.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png",Sony Sports Ten 5 HD
+http://starshare.live:8080/live/Sylvia/Sylvia/98870.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png",Sony Sports Ten 5
+http://103.120.172.74:1110
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png",Sports 18 1 HD
+http://tv.cloudcdn.me/live.ts?channelId=102479&uid=4944&deviceMac=00:1A:79:94:98:FE
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png",Sports 18 1 HD
+http://103.120.172.74:5500
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/A%20Sports.png",A Sports
+http://121.91.61.106:8000/play/a03o/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ten%20Sports%20PK.png",Ten Sports PK
+http://starshare.live:8080/live/Sylvia/Sylvia/98.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
