@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1 xui-id="151" tvg-id="" tvg-name="beIN Sports 1 ID" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/BeinSports1.svg/revision/latest/scale-to-width-down/150?cb=20230910184457" group-title="SPORT",beIN Sports 1 ID
+#EXTINF:-1 xui-id="151" tvg-id="" tvg-name="beIN Sports 1 ID" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/BeinSports1.svg/revision/latest/scale-to-width-down/150?cb=20230910184457" group-title="SPORTS",beIN Sports 1 ID
 http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRKlo-W027jxYPBv0w-KTDM8
 
-#EXTINF:-1 xui-id="152" tvg-id="" tvg-name="beIN Sports 3 ID" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/Bein-sports-3-hero.png/revision/latest/scale-to-width-down/250?cb=20170624060242" group-title="SPORT",beIN Sports 3 ID
+#EXTINF:-1 xui-id="152" tvg-id="" tvg-name="beIN Sports 3 ID" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/Bein-sports-3-hero.png/revision/latest/scale-to-width-down/250?cb=20170624060242" group-title="SPORTS",beIN Sports 3 ID
 http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRP8nPGI-vHLj22I6fqewrQI
-#EXTINF:-1 xui-id="8106" tvg-id="" tvg-name="Star Sports Select 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png/revision/latest?cb=20230128174436" group-title="SPORT",Star Sports Select 1
+#EXTINF:-1 xui-id="8106" tvg-id="" tvg-name="Star Sports Select 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png/revision/latest?cb=20230128174436" group-title="SPORTS",Star Sports Select 1
 http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRDH4jcHsgda46hvOGbUEvdw
 
 
