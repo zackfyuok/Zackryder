@@ -661,14 +661,16 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/qrhGpfd/pbskids.png" group-title="BOCIL", PBS KIDS
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-#EXTINF:-1 group-title="BOCIL" tvg-logo="https://www.transvision.co.id/img/channel/new/Smurf%20TV.png",SMURF TV
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4065
-#EXTINF:-1 group-title="BOCIL" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5a/Teletubbies_Logo.png",TELETUBBIES
-https://dhx-teletubbies-1-gb.samsung.wurl.tv/playlist.m3u8
-
-
+#EXTINF:-1 group-title="BOCIL"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/pbRXN30.png",Barbie
+https://raw.githubusercontent.com/MassinDV/youtube-iptv-kids-channels-01/main/live/ch9.m3u
+#EXTINF:-1 group-title="BOCIL"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/8vupi3M.png",BABY SHARK TV
+https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="BOCIL"                   tvg-name="Cartoon Network"        tvg-logo="https://i.imgur.com/l5GIgc6.png",CARTOON NETWORK
+https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/playlist.m3u8
+#EXTINF:-1 group-title="BOCIL"                   tvg-name="   "                    tvg-logo="https://i.imgur.com/LWHavQs.png",CARTOON TV
+https://494e639cacb24ad484819d7154a3f100.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_KidsPangTV/playlist.m3u8
+#EXTINF:-1 group-title="BOCIL"                   tvg-name="ertkids"                tvg-logo="https://i.imgur.com/RAb2yMN.png",ERT KIDS TV     
+https://ertflix.s.llnwi.net/ertlive/kids/default/playlist.m3u8
 
 #EXTINF:-1 group-title="VOD ID" tvg-logo="https://pbs.twimg.com/media/DU_5NS5U0AAsRkf.jpg",Titisan Setan 2 (2018)
 https://www.googleapis.com/drive/v3/files/1gLXUYmhU0prZIO-movZzEwY-f4CbHlbx?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
