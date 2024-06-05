@@ -441,6 +441,12 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b9
 #EXTINF:0 group-title="MOVIE" tvg-logo="https://i.ibb.co/gM4dPCL/hbo2.jpg",HBO2 
 ##http://208.115.225.174:14140
 
+#EXTINF:-1 tvg-id="HBO.br" tvg-name="" tvg-logo="https://i.ibb.co/wzNw0zL/hbo.png" group-title="MOVIE", HBO+
+http://dns.maxptv.net:2052/C383/121341/127
+
+#EXTINF:-1 tvg-id="HBO.br" tvg-name="" tvg-logo="https://i.ibb.co/wzNw0zL/hbo.png" group-title="MOVIE", HBO XTREME
+http://dns.maxptv.net:2052/C383/121341/113
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/movie/hbofamily.png" group-title="MOVIE",HBO Family 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -824,7 +830,7 @@ https://ott1.cyberhost.ro/sdash/LIVE$DolceSport3/index.mpd/Manifest?start=LIVE&e
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=202a927cd913101de765b0e5bb3f500f:cdd399869057bc34c827f257f562643a
-https://ott1.cyberhost.ro/sdash/LIVE$DolceSport4/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
+https://ott1.cyberhost.ro/sdash/LIVE$DolceSport4/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-EN
 
 _-_-_-VOD GORE_-_-
 
