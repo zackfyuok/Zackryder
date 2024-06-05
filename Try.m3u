@@ -82,6 +82,22 @@ https://cempedak-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_v
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://streaming.indihometv.com/atm/DASH/inews/manifest.mpd
 
+_-_-_-SPORT TV_-_-_
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyXuJBOjJKQM6GIGRgqqaKgfABF9-dpJMYXFNm5z4A&s" group-title="SPORT TV" , SporTV HD
+http://51.79.39.236:80/negmjjbg/jwV0Qy1h71/608030
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyXuJBOjJKQM6GIGRgqqaKgfABF9-dpJMYXFNm5z4A&s" group-title="SPORT TV" , SporTV HD
+http://51.79.39.236:80/negmjjbg/jwV0Qy1h71/608031
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyXuJBOjJKQM6GIGRgqqaKgfABF9-dpJMYXFNm5z4A&s" group-title="SPORT TV" , SporTV HD
+http://51.79.39.236:80/negmjjbg/jwV0Qy1h71/608044
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyXuJBOjJKQM6GIGRgqqaKgfABF9-dpJMYXFNm5z4A&s" group-title="SPORT TV" , SporTV HD
+http://51.79.39.236:80/negmjjbg/jwV0Qy1h71/608038
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyXuJBOjJKQM6GIGRgqqaKgfABF9-dpJMYXFNm5z4A&s" group-title="SPORT TV" , SporTV HD
+http://51.79.39.236:80/negmjjbg/jwV0Qy1h71/608044
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyXuJBOjJKQM6GIGRgqqaKgfABF9-dpJMYXFNm5z4A&s" group-title="SPORT TV" , SporTV HD
+http://51.79.39.236:80/negmjjbg/jwV0Qy1h71/608045
+
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png",Sports 18 1 HD
 http://tv.cloudcdn.me/live.ts?channelId=102479&uid=4944&deviceMac=00:1A:79:94:98:FE
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png",Sports 18 1 HD
