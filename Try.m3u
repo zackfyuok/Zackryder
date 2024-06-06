@@ -218,16 +218,14 @@ https://wp7-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000014_0
 #KODIPROP:inputstream.adaptive.license_key=16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
 https://wp1-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000094_019321/_shared_cc010062b17300c4504b6ab5681b5417/NL_000094_019321.mpd
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="SPORTS",CANAL+ SPORT 1
-http://146.59.70.61:8880/297/token=0e318668ba9b1d41dd3333/video.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="SPORTS",CANAL+ SPORT 2
-http://146.59.70.61:8880/298/token=0e318668ba9b1d41dd3333/video.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="SPORTS",CANAL+ SPORT 3
-http://146.59.70.61:8880/340/token=0e318668ba9b1d41dd3333/video.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="SPORTS",CANAL+ SPORT 4
-http://146.59.70.61:8880/341/token=0e318668ba9b1d41dd3333/video.m3u8
-
-
+#EXTINF:-1 tvg-id="DAZN 1" tvg-logo="https://i.ibb.co/mzDDZdc/dazn1.png" group-title="SPORTS" , DAZN 1
+https://nxt.plus:8443/Fabian.rubio/Fabian.2023/25276
+#EXTINF:-1 tvg-id="DAZN 2" tvg-logo="https://i.ibb.co/NmHJWdT/dazn2.png" group-title="SPORTS" , DAZN 2
+https://nxt.plus:8443/Fabian.rubio/Fabian.2023/25277
+#EXTINF:-1 tvg-id="DAZN 3" tvg-logo="https://i.ibb.co/jLx33bM/dazn3.png" group-title="SPORTS" , DAZN 3
+https://nxt.plus:8443/Fabian.rubio/Fabian.2023/28955
+#EXTINF:-1 tvg-id="DAZN 4" tvg-logo="https://i.ibb.co/KF0chkh/dazn4.png" group-title="SPORTS" , DAZN 4
+https://nxt.plus:8443/Fabian.rubio/Fabian.2023/28956
 
 #EXTINF:-1 tvg-id="AXN Movies" tvg-name="AXN Movies" tvg-logo="https://i.ibb.co/r2WTxWH/axnmov.png" group-title="MOVIE", AXN MOVIES 🇺🇸 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
