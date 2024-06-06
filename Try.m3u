@@ -218,14 +218,47 @@ https://wp7-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000014_0
 #KODIPROP:inputstream.adaptive.license_key=16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
 https://wp1-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000094_019321/_shared_cc010062b17300c4504b6ab5681b5417/NL_000094_019321.mpd
 
-#EXTINF:-1 tvg-id="DAZN 1" tvg-logo="https://i.ibb.co/mzDDZdc/dazn1.png" group-title="SPORTS" , DAZN 1
-https://nxt.plus:8443/Fabian.rubio/Fabian.2023/25276
-#EXTINF:-1 tvg-id="DAZN 2" tvg-logo="https://i.ibb.co/NmHJWdT/dazn2.png" group-title="SPORTS" , DAZN 2
-https://nxt.plus:8443/Fabian.rubio/Fabian.2023/25277
-#EXTINF:-1 tvg-id="DAZN 3" tvg-logo="https://i.ibb.co/jLx33bM/dazn3.png" group-title="SPORTS" , DAZN 3
-https://nxt.plus:8443/Fabian.rubio/Fabian.2023/28955
-#EXTINF:-1 tvg-id="DAZN 4" tvg-logo="https://i.ibb.co/KF0chkh/dazn4.png" group-title="SPORTS" , DAZN 4
-https://nxt.plus:8443/Fabian.rubio/Fabian.2023/28956
+#EXTINF:-1 tvg-id="NBCSportsBoston.us" tvg-name="" tvg-logo="https://i.ibb.co/T4dqdwR/nbcsp.png" group-title="SPORTS" ,NBC SPORTS 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0020d88a6713159839743f655c5da7de:ba9f34226301f69a4f0f13f65a1f92ec
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/pf4SxjC/knbc.png" group-title="SPORTS" ,NBC4 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
+
+#EXTINF:-1 tvg-id="RTL club.be" tvg-logo="https://i.ibb.co/ZWbsXFL/rtlsports.png" group-title="SPORTS" ,RTL SPORTS SD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b53316f32fc93b51a61ba6fdf0bce6c1:d752d66843a48a6fed64eed8f87adc3e
+https://origin2-rtlbe.live.6cloud.fr/pool_z6h2o6qd/clubrtl/rtlbesd/dash_short_cenc10_clubrtl/index.mpd
+
+#EXTINF:-1 tvg-id="RTL club.be" tvg-logo="https://i.ibb.co/ZWbsXFL/rtlsports.png" group-title="SOORTS" ,RTL SPORTS HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0993fbc9c0f242e8bab9483484ff974e:08d3d32f7efefb22a7a865f81b5c8276
+https://tvvvideolive3.solocoo.tv/blueskytvvlive7dash/bluertlclubhd/Manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZWr5NsB/rtshsport.png" group-title="OLAHRAGA LUAR",RTSH SPORT HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"87c154e8e6934177b428a2a0fa5ac800":"2c036503c395aa3046956bd1eafe21e1","faad00102fbe44b39dd1c630aebf6500":"bdd28f4dc9f55f73fda58d80b1a35548"}
+https://tring.s.llnwi.net/delta/101/out/u/rtshsportottencryption.mpd
+
+#EXTINF:-1 tvg-id="here" tvg-logo="https://i.ibb.co/vBJp5Jp/rtvsport.png" group-title="SPORTS",RTVS PORT FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:11223344556677889900112233445566
+https://cors-proxy.elfsight.com/https://dash2.antik.sk/stream/nvidia_rtvs_sport/playlist_cenc.mpd
+
+
+
 
 #EXTINF:-1 tvg-id="AXN Movies" tvg-name="AXN Movies" tvg-logo="https://i.ibb.co/r2WTxWH/axnmov.png" group-title="MOVIE", AXN MOVIES 🇺🇸 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
