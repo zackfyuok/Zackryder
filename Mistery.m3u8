@@ -15,6 +15,13 @@ http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png" group-title="LOKAL ID",RCTI HD
 https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GCY8VdF/IMG-20221207-234520.png" group-title="LOKAL ID",RCTI
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+##https://link.zozotv.xyz:443/rozila969/abc12345/47
+
 #EXTINF:-1 tvg-name="SCTV" tvg-logo="https://hometv.pw/logo/lokal/sctv.png" group-title="LOKAL ID",SCTV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
@@ -81,6 +88,16 @@ https://cempedak-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_v
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://streaming.indihometv.com/atm/DASH/inews/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/ENT.png/revision/latest/scale-to-width-down/200?cb=20210109124512" group-title="LOKAL ID",MNC ENTERTAINMENT
+#EXTVLCOPT:http-referrer=https://www.visionplus.id
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
+
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(6854467f-52fe-48ee-9822-00233c678709)/manifest.mpd
+#EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/Digione_tv.jpeg" group-title="LOKAL ID",DIGIONE MAXSTREAM
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/manifest.mpd
 
 _-_-_-SPORT TV_-_-_
 
@@ -258,7 +275,15 @@ https://tring.s.llnwi.net/delta/101/out/u/rtshsportottencryption.mpd
 https://cors-proxy.elfsight.com/https://dash2.antik.sk/stream/nvidia_rtvs_sport/playlist_cenc.mpd
 
 
+         _-_-_-MOVIE_-_-_-
 
+
+#EXTINF:-1 logo="https://linear-poster.astro.com.my/prod/logo/BOO_v1.png" group-title="MOVIE",BOO
+#EXTVLCOPT:I_Love_OnlyFans
+#EXTVLCOPT:http-user-agent=TiviMate/4.6.1 (Linux; Android 9)
+http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1697
+##http://toh-users.xyz:8080/42204120/16250164/798445
+##https://maper.info/BOO_shareext
 
 #EXTINF:-1 tvg-id="AXN Movies" tvg-name="AXN Movies" tvg-logo="https://i.ibb.co/r2WTxWH/axnmov.png" group-title="MOVIE", AXN MOVIES 🇺🇸 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
