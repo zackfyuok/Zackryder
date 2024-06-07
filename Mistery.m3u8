@@ -67,6 +67,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-title="LOKAL ID" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_116.jpg",NET
 https://liveaneviadev.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+
 #EXTINF:0 group-title="LOKAL ID" tvg-logo="http://www.dens.tv/images/channel-logo/111.jpg", MOJI
 http://xtv.ooo:8080/2575376/47426736/35099
 
