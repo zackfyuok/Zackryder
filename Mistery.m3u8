@@ -1564,7 +1564,7 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64cbbaffd940521074d
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"QuS48/IQ8axdRFivn57cYQ","kid":"RN8rxN+0xqYGj5CGhN8P/g"}],"type":"temporary"}
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/650e60e3d940521074e27517_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
-#EXTINF:-1 type="" group-title="VOD HBOGO (ott)" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040409X0-portrait.jpg",Ticket To Paradise 2022
+#EXTINF:-1 type="" group-title="VOD HBO" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040409X0-portrait.jpg",Ticket To Paradise 2022
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2033,7 +2033,7 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6342984fd940521074b
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"d4sO9GUAKthpkgW3EgpQPA","kid":"OY8ohA5mikarROOtJVdo1g"}],"type":"temporary"}
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63ca3bbed940521074c40b56_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
-#EXTINF:-1 type="" group-title="VOD HBOGO" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039485X0-portrait.jpg",Bisping: The Michael Bisping Story 2022
+#EXTINF:-1 type="" group-title="VOD HBO" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039485X0-portrait.jpg",Bisping: The Michael Bisping Story 2022
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
