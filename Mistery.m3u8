@@ -99,6 +99,11 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(6854467f-52fe
 #EXTINF:-1 tvg-logo="https://www.geocities.ws/alvaro8/Digione_tv.jpeg" group-title="LOKAL ID",DIGIONE MAXSTREAM
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/manifest.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="GARUDA TV" tvg-logo="https://i.ibb.co/TBGpbpn/garudatv.png" group-title="LOKAL ID", GARUDA TV 🇮🇩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
+
+
 _-_-_-SPORT TV_-_-_
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyXuJBOjJKQM6GIGRgqqaKgfABF9-dpJMYXFNm5z4A&s" group-title="SPORT TV" , SporTV HD
