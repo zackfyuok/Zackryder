@@ -419,63 +419,8 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://cempedak-live-cdn.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.mp
+https://cempedak-live-cdn.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd
 
-#EXTINF:-1 tvg-id="SkyCinemaActionHD.uk" tvg-logo="https://i.ibb.co/kMGj9Hx/skycinemaaction.png" group-title="MOVIE", SKY CINEMA ACTION 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0009a340cc0a79210aac42485474d01f:42ad18fa32d4001a1b0d196d194b4f82
-https://linear401-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(skycinemaaction)/manifest_720.mpd
-
-#EXTINF:-1 tvg-id="SkyCinemaAnimation.uk" tvg-logo="https://i.ibb.co/3rK6d3x/skycinemaanimation.png" group-title="MOVIE", SKY CINEMA ANIMATION 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0007cb3f3fe2ed34cc3a0dead47c2769:0a8bb5a04ab2fdf7b14af67b8ecf0867
-https://linear401-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skycinemaanimation)/manifest_720.mpd
-
-#EXTINF:-1 tvg-id="SkyCinemaFamilyHD.uk" tvg-logo="https://i.ibb.co/tJ3QRLs/skycinemafamily.png" group-title="MOVIE", SKY CINEMA FAMILY 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=00092cba8f081f1f6711df263e0639a3:07a43faf140c8ce0313047c29883d270
-https://linear401-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(skycinemafamily)/manifest_720.mpd
-
-#EXTINF:-1 tvg-id="SkyCinemaHits.uk" tvg-logo="https://i.ibb.co/hV0DwNX/skycinehits.png" group-title="MOVIE", SKY CINEMA HITS 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0009b55ec9440c27db869dd4efec5ff0:457c483c9606553d2461ccf27732f1c3
-https://linear406-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(skycinemahits)/manifest_720.mpd
-
-#EXTINF:-1 tvg-id="SkyCinemaPremiereHD.uk" tvg-logo="https://i.ibb.co/bLqD4Mv/skycinepremiere.png" group-title="MOVIE", SKY CINEMA PREMIER 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key= 00073338ff8073d4304f83c62a015923:097c82ec30a82545cfc1f9d66ba7bfa0
-https://linear407-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(skycinemapremier)/manifest_720.mpd
-
-#EXTINF:-1 tvg-id="SkyCinemaSelectHD.uk" tvg-logo="https://i.ibb.co/djD6HLf/skycinemaselect.png" group-title="MOVIE", SKY CINEMA SELECT 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00094829ed07ef5ce4c054a4ee32e6a3:8332216848b06f3a6da662441cc2afb9
-https://linear402-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(skycinemaselect)/manifest_720.mpd
-
-#EXTINF:-1 tvg-id="SkyCinemaSciFiHorrorHD.uk" tvg-logo="https://i.ibb.co/Nt8P6xr/skycinemascifihorror.png" group-title="MOVIE", SKY CINEMA SCIFI-HORROR 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0007c076bbcea27bdc06d9cf3d2ae546:564cfbb51a3c935b01bea50df5649ba8
-https://linear402-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(skycinemascifi)/manifest_720.mpd
-
-#EXTINF:-1 tvg-id="SkyCinemaThrillerHD.uk" tvg-logo="https://i.ibb.co/1fYKTWM/skycinematriler.png" group-title="MOVIE", SKY CINEMA THRILLER 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0007e54edb6bc28d1e657138c133cfcb:16dbe4921c7a364db8703eacbaecbd8c
-https://linear402-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(skycinemathriller)/manifest_720.mpd
-
-#EXTINF:-1 tvg-id="SONY MAX HD" tvg-name="" tvg-logo="https://i.ibb.co/cx8RKHC/sonymaxhd.png" group-title="MOVIE", Sony MAX HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
-
-#EXTINF:-1 tvg-id="SONY MAX 2" tvg-name="" tvg-logo="https://i.ibb.co/RCjJ2s2/sonymax2.png" group-title="MOVIE", Sony MAX 2 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
 
 #EXTINF:-1 tvg-chno="11" tvg-id="MOVIES WORLD 1.th" tvg-name="MOVIES WORLD 1" group-title="MOVIE" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/mw1.jpg",MOVIES WORLD 1
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
@@ -2871,6 +2816,71 @@ https://stream.hownetwork.xyz/xxx/the-departed-2006-bluray/9/480.m3u8
 
 #EXTINF:-1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2019/08/film-parasite-gisaengchung-2019-lk21.jpg.webp" group-title="VOD ACTION",Parasite (Gisaengchung) (2019)
 https://stream.hownetwork.xyz/xxx/parasite-gisaengchung-2019-bluray/11/480.m3u8
+
+            _-_-_-_-VOD KOREA_-_-_-
+
+
+#EXTINF:-1 tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2023/11/film-ransomed-2023-lk21-d21.jpg.webp" group-title="VOD KOREA",Ransomed (2023)
+https://stream.hownetwork.xyz/xxx/ransomed-2023-bluray_X_a3ea819d/22/480.m3u8
+
+
+EXTINF:-1 tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2024/05/film-minority-opinion-2015-lk21-d21.jpg.webp" group-title="VOD KOREA",Minority Opinion (2015)
+https://stream.hownetwork.xyz/xxx/minority-opinion-2015-webdl_X_ab0864b2.480/22/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s2.lk21static.xyz/wp-content/uploads/2023/03/film-kill-boksoon-2023-lk21-d21.jpg.webp" group-title="VOD KOREA",Kill Boksoon (2023)
+https://stream.hownetwork.xyz/xxx/kill-boksoon-2023-webdl/10/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2022/10/film-hunt-2022-lk21-d21.jpg.webp" group-title="VOD KOREA",Hunt (2022)
+https://stream.hownetwork.xyz/xxx/hunt-2022-bluray/3/480.m3u8
+
+EXTINF:-1 tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2022/09/film-emergency-declaration-2022-lk21-d21.jpg.webp" group-title="VOD KOREA",Emergency Declaration (2022)
+https://stream.hownetwork.xyz/xxx/emergency-declaration-2022-bluray/6/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2023/01/film-gangnam-zombie-2023-lk21-d21.jpg.webp" group-title="VOD KOREA",Gangnam Zombie (2023)
+https://stream.hownetwork.xyz/xxx/gangnam-zombie-2023-bluray/2/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2022/11/film-confidential-assignment-2-international-2022-lk21-d21.jpg.webp" group-title="VOD KOREA",Confidential Assignment 2: International (2022)
+https://stream.hownetwork.xyz/xxx/confidential-assignment-2-international-2022-webdl/6/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2022/11/film-remember-2022-lk21-d21.jpg.webp" group-title="VOD KOREA",Remember (2022)
+https://stream.hownetwork.xyz/xxx/remember-2022-webdl/11/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2022/12/film-decibel-2022-lk21-d21.jpg.webp" group-title="VOD KOREA",Decibel (2022) 
+https://stream.hownetwork.xyz/xxx/decibel-2022-webdl/6/480.m3u8
+
+EXTINF:-1 tvg-logo="https://s2.lk21static.xyz/wp-content/uploads/2022/10/film-20th-century-girl-2022-lk21-d21.jpg.webp" group-title="VOD KOREA",20th Century Girl (2022)
+https://stream.hownetwork.xyz/xxx/20th-century-girl-2022-webdl/3/480.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
