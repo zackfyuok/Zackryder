@@ -184,7 +184,7 @@ http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
 http://news1.live14.com/stream/news1.m3u8
 
-#EXTINF:-1 tvg-chno="22" tvg-id="Nation TV.th" tvg-name="Nation TV" group-title="THAULAND" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0021.png",Nation TV
+#EXTINF:-1 tvg-chno="22" tvg-id="Nation TV.th" tvg-name="Nation TV" group-title="THAILAND" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0021.png",Nation TV
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chnation3/index.m3u8
 
@@ -3321,7 +3321,7 @@ https://stream.hownetwork.xyz/xxx/nothing-uncovered-aka-lets-get-grabbed-by-the-
 #EXTINF:-1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2024/03/film-nothing-uncovered-aka-lets-get-grabbed-by-the-collar-2024-lk21-d21.jpg.webp" group-title="NETFLIX SERIES", Nothing Uncovered aka Let’s Get Grabbed by the Collar – Season 1 Episode 05
 https://stream.hownetwork.xyz/xxx/nothing-uncovered-aka-lets-get-grabbed-by-the-collar-season-1-episode-5-2024-hdtv_X_f474e87a/21/480.m3u8
 
-#EXTINF:-1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2024/03/film-nothing-uncovered-aka-lets-get-grabbed-by-the-collar-2024-lk21-d21.jpg.webp" group-title="NETFLIX", Nothing Uncovered aka Let’s Get Grabbed by the Collar – Season 1 Episode 06
+#EXTINF:-1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2024/03/film-nothing-uncovered-aka-lets-get-grabbed-by-the-collar-2024-lk21-d21.jpg.webp" group-title="NETFLIX SERIES", Nothing Uncovered aka Let’s Get Grabbed by the Collar – Season 1 Episode 06
 https://stream.hownetwork.xyz/xxx/nothing-uncovered-aka-lets-get-grabbed-by-the-collar-season-1-episode-6-2024-hdtv_X_fe69f46d/21/480.m3u8
 
 #EXTINF:-1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2024/03/film-nothing-uncovered-aka-lets-get-grabbed-by-the-collar-2024-lk21-d21.jpg.webp" group-title="NETFLIX SERIES", Nothing Uncovered aka Let’s Get Grabbed by the Collar – Season 1 Episode 07
