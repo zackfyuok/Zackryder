@@ -649,27 +649,13 @@ https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/m
 #KODIPROP:inputstream.adaptive.license_key=40d4210e476340e091d5433d45fdd8f1:090459185a95c99e6bae332d689e6fbe
 https://cors-proxy.elfsight.com/https://live-streaming-rsm.azureedge.net/wwehd/wwehd_cenc.isml/.mpd
 
+#EXTINF:-1 tvg-id="AioSport1.ir" tvg-logo="https://assets.aionet.ir/channels/100347" group-title="SPORTS",Aio Sport 1
+https://live.aionet.ir/hls/aiosport/aiosport.m3u8
+#EXTINF:-1 tvg-id="AioSport2.ir" tvg-logo="https://assets.aionet.ir/channels/100347" group-title="SPORTS",Aio Sport 2
+https://live.aionet.ir/hls/aiosport2/aiosport2.m3u8
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+EXTINF:-1 tvg-id="DDSports.in" tvg-logo="https://i.imgur.com/J2Ky5OO.png" group-title="SPORTS",DD Sports
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 
          _-_-_-MOVIE_-_-_-
 
@@ -923,6 +909,13 @@ https://i.mjh.nz/SamsungTVPlus/FRBB50000016B.m3u8
 
 #EXTINF:-1 channel-id="samsung-FRAJ4500023UP" tvg-id="FRAJ4500023UP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRAJ4500023UP_20220323T075857SQUARE.png_20220323075900.png" tvg-chno="4999" group-title="MOVIE" , Films d'action - Rakuten TV
 https://i.mjh.nz/SamsungTVPlus/FRAJ4500023UP.m3u8
+
+#EXTINF:-1 tvg-id="Horrify.us" tvg-logo="https://i.imgur.com/N6H91zk.png" group-title="MOVIE",Horrify
+https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
+
+#EXTINF:-1 tvg-id="MovieSphere.us" tvg-logo="https://i.imgur.com/h1ejU90.png" group-title="MOVIE",MovieSphere
+https://lnc-moviesphere.tubi.video/playlist.m3u8
+
 
      _-_-_-SPORT LOKAL_-_-_-
 
