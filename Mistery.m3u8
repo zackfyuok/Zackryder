@@ -669,35 +669,35 @@ https://live.aionet.ir/hls/aiosport2/aiosport2.m3u8
 EXTINF:-1 tvg-id="DDSports.in" tvg-logo="https://i.imgur.com/J2Ky5OO.png" group-title="SPORTS",DD Sports
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 
-#EXTINF:-1 tvg-id="SONY SPORTS 1 HD" tvg-logo="https://i.ibb.co/WxTTWtf/sonyten1.png" group-title="SPORTS", SONY TEN 1 HD 
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 1 HD" tvg-logo="https://i.ibb.co/WxTTWtf/sonyten1.png" group-title="SPORTS", SONY TEN 1 HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://toxicify.pro/sliv/stream.php?id=sony-ten-1-hd&e=.m3u8
 
-#EXTINF:-1 tvg-id="SONY TEN 1 HD" tvg-logo="https://i.ibb.co/WxTTWtf/sonyten1.png" group-title="SPORTS", SONY TEN 1²
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 1 HD" tvg-logo="https://i.ibb.co/WxTTWtf/sonyten1.png" group-title="SPORTS", SONY TEN 1²
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://toxicify.pro/sliv/stream.php?id=sony-ten-1&e=.m3u8
 
-#EXTINF:-1 tvg-id="SONY TEN 2 HD" tvg-logo="https://i.ibb.co/yg0dPw7/sonyten2.png" group-title="SPORTS", SONY TEN 2 HD
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 2 HD" tvg-logo="https://i.ibb.co/yg0dPw7/sonyten2.png" group-title="SPORTS", SONY TEN 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://toxicify.pro/sliv/stream.php?id=sony-ten-2-hd&e=.m3u8
 
-#EXTINF:-1 tvg-id="SONY TEN 2 HD" tvg-logo="https://i.ibb.co/yg0dPw7/sonyten2.png" group-title="SPORTS", SONY TEN 2²
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 2 HD" tvg-logo="https://i.ibb.co/yg0dPw7/sonyten2.png" group-title="SPORTS", SONY TEN 2²
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://toxicify.pro/sliv/stream.php?id=sony-ten-2&e=.m3u8
 
-#EXTINF:-1 tvg-id="SONY TEN 3 HD" tvg-logo="https://i.ibb.co/yXL2Kf8/sonyten3.png" group-title="SPORTS", SONY TEN 3 HD
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 3 HD" tvg-logo="https://i.ibb.co/yXL2Kf8/sonyten3.png" group-title="SPORTS", SONY TEN 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://toxicify.pro/sliv/stream.php?id=sony-ten-3-hd&e=.m3u8
 
-#EXTINF:-1 tvg-id="SONY TEN 3 HD" tvg-logo="https://i.ibb.co/yXL2Kf8/sonyten3.png" group-title="SPORTS", SONY TEN 3²
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 3 HD" tvg-logo="https://i.ibb.co/yXL2Kf8/sonyten3.png" group-title="SPORTS", SONY TEN 3²
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://toxicify.pro/sliv/stream.php?id=sony-ten-3&e=.m3u8
 
-#EXTINF:-1 tvg-id="SONY TEN 5 HD" tvg-logo="https://i.ibb.co/3fFbkYj/sonyten5.png" group-title="SPORTS", SONY TEN 5 HD 
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 5 HD" tvg-logo="https://i.ibb.co/3fFbkYj/sonyten5.png" group-title="SPORTS", SONY TEN 5 HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://toxicify.pro/sliv/stream.php?id=sony-ten-5-hd&e=.m3u8
 
-#EXTINF:-1 tvg-id="SONY TEN 5 HD" tvg-logo="https://i.ibb.co/3fFbkYj/sonyten5.png" group-title="SPORTS", SONY TEN 5²
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 5 HD" tvg-logo="https://i.ibb.co/3fFbkYj/sonyten5.png" group-title="SPORTS", SONY TEN 5²
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://toxicify.pro/sliv/stream.php?id=sony-ten-5&e=.m3u8
 
