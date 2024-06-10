@@ -102,6 +102,10 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d2f582be-366c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/-e5oOiMZ2zI/maxresdefault.jpg" group-title="LOKAL ID", VTV HD
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
+https://flv.intechmedia.net/live/ch107.m3u8
+
      _-_-_-THAILAND_-_-_
 
 #EXTINF:-1 tvg-chno="2" tvg-id="NBT 2 HD.th" tvg-name="NBT 2 HD" group-title="THAILAND" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0001.png",NBT 2 HD
@@ -347,6 +351,14 @@ http://iptvtree.net:8080/AmirBilali/76448035/157557
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" group-title="SPORTS",Astro SuperSport 4
 http://iptvtree.net:8080/AmirBilali/76448035/157558
 
+
+#EXTINF:-1 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier1.png" group-title="SPORT",True Premier 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186574&extension=ts&play_token=j8tvtalOGI
+
+#EXTINF:-1 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier2.png" group-title="SPORT",True Premier 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186576&extension=ts&play_token=j8tvtalOGI
 
 #EXTINF:-1 tvg-id="unifi Sports 1" tvg-logo="https://i.ibb.co/p24tp0P/unifisports.png" group-title="SPORTS", UNIFI SPORTS 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -656,6 +668,42 @@ https://live.aionet.ir/hls/aiosport2/aiosport2.m3u8
 
 EXTINF:-1 tvg-id="DDSports.in" tvg-logo="https://i.imgur.com/J2Ky5OO.png" group-title="SPORTS",DD Sports
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+
+#EXTINF:-1 tvg-id="SONY SPORTS 1 HD" tvg-logo="https://i.ibb.co/WxTTWtf/sonyten1.png" group-title="SPORTS", SONY TEN 1 HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://toxicify.pro/sliv/stream.php?id=sony-ten-1-hd&e=.m3u8
+
+#EXTINF:-1 tvg-id="SONY TEN 1 HD" tvg-logo="https://i.ibb.co/WxTTWtf/sonyten1.png" group-title="SPORTS", SONY TEN 1²
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://toxicify.pro/sliv/stream.php?id=sony-ten-1&e=.m3u8
+
+#EXTINF:-1 tvg-id="SONY TEN 2 HD" tvg-logo="https://i.ibb.co/yg0dPw7/sonyten2.png" group-title="SPORTS", SONY TEN 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://toxicify.pro/sliv/stream.php?id=sony-ten-2-hd&e=.m3u8
+
+#EXTINF:-1 tvg-id="SONY TEN 2 HD" tvg-logo="https://i.ibb.co/yg0dPw7/sonyten2.png" group-title="SPORTS", SONY TEN 2²
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://toxicify.pro/sliv/stream.php?id=sony-ten-2&e=.m3u8
+
+#EXTINF:-1 tvg-id="SONY TEN 3 HD" tvg-logo="https://i.ibb.co/yXL2Kf8/sonyten3.png" group-title="SPORTS", SONY TEN 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://toxicify.pro/sliv/stream.php?id=sony-ten-3-hd&e=.m3u8
+
+#EXTINF:-1 tvg-id="SONY TEN 3 HD" tvg-logo="https://i.ibb.co/yXL2Kf8/sonyten3.png" group-title="SPORTS", SONY TEN 3²
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://toxicify.pro/sliv/stream.php?id=sony-ten-3&e=.m3u8
+
+#EXTINF:-1 tvg-id="SONY TEN 5 HD" tvg-logo="https://i.ibb.co/3fFbkYj/sonyten5.png" group-title="SPORTS", SONY TEN 5 HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://toxicify.pro/sliv/stream.php?id=sony-ten-5-hd&e=.m3u8
+
+#EXTINF:-1 tvg-id="SONY TEN 5 HD" tvg-logo="https://i.ibb.co/3fFbkYj/sonyten5.png" group-title="SPORTS", SONY TEN 5²
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://toxicify.pro/sliv/stream.php?id=sony-ten-5&e=.m3u8
+
+
+
+
 
          _-_-_-MOVIE_-_-_-
 
