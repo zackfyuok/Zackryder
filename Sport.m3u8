@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 xui-id="151" tvg-id="" tvg-name="beIN Sports 1 ID" tvg-logo="https://github.com/zackfyuok/Zackryder/blob/main/Screenshot_2022-09-28-18-04-42-93.jpg" group-title="SPORTS",beIN Sports 1 ID
+#EXTINF:-1 xui-id="151" tvg-id="" tvg-name="beIN Sports 1 ID" tvg-logo="https://github.com/zackfyuok/Zackryder/main/Screenshot_2022-09-28-18-04-42-93.jpg" group-title="SPORTS",beIN Sports 1 ID
 http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRKlo-W027jxYPBv0w-KTDM8
 
 #EXTINF:-1 xui-id="152" tvg-id="" tvg-name="beIN Sports 3 ID" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/Bein-sports-3-hero.png/revision/latest/scale-to-width-down/250?cb=20170624060242" group-title="SPORTS",beIN Sports 3 ID
