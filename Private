@@ -1281,24 +1281,27 @@ http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
          _-_-_-MOVIE_-_-_-
 
 
-#EXTINF:-1 logo="https://linear-poster.astro.com.my/prod/logo/BOO_v1.png" group-title="MOVIE",BOO
-#EXTVLCOPT:I_Love_OnlyFans
-#EXTVLCOPT:http-user-agent=TiviMate/4.6.1 (Linux; Android 9)
-http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1697
-##http://toh-users.xyz:8080/42204120/16250164/798445
-##https://maper.info/BOO_shareext
+
+#EXTINF:-1 group-title="MOVIE" tvg-id="boohd.my" tvg-logo="https://dl.dropbox.com/scl/fi/cydch2lrvo57w768blm3t/boo.png?rlkey=3pgxrthi6si2ahio7398i77ad&dl=0",Boo
+http://38.47.189.134:1234/stream/astro/astrooasis/master.m3u8?u=hometv&p=23661ebec0d785b2f26aae81a86c556db678fb85bdb9ea2622297472ebaaa43d
 
 #EXTINF:-1 group-title="MOVIE" tvg-id="Bioskop Indonesia" tvg-logo="https://i.ibb.co/Yf7XNzn/bioskopid.png", BIOSKOP INDONESIA 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia_dash/manifest.mpd
+#https://raw.githubusercontent.com/mimipipi22/lalajo/main/bioskopindonesia.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropbox.com/s/1vwushpzo6k0wos/images%20%281%29.png" group-title="MOVIE", ZEE ACTION
+#http://208.86.19.13:81/7288.stream/index.m3u8
 
 #EXTINF:-1 tvg-id="Celestial Movies - [Channel 20].id" tvg-name="CELESTIAL MOVIES" tvg-logo="https://i.ibb.co/gdYvVdB/cm.png" group-title="MOVIE", CELESTIAL MOVIES 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://cempedak-live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
+
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://dl.dropboxusercontent.com/s/fcrtqmoyt0pfb29/ccm.png", CCM
+http://testfunctionlive.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd|Referer=https://www.visionplus.id/
 
 #EXTINF:-1 tvg-id="CINEMACHI HD - [Channel 401].id" tvg-name="CINEMACHI" tvg-logo="https://i.ibb.co/sJ26mkZ/cinemachi.png" group-title="MOVIE", CINEMACHI 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
