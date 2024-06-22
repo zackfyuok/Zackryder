@@ -859,70 +859,54 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/o
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
 https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-501/stream.mpd
 
+       ========ELEVENT PT======
 
-
-
-
-
-
-     _-_-_-GO3 LIVE_-_-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fQSmk0y/go3sport1.png" group-title="GO3 LIVE", GO3 Sport 1 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+ 
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 1.pt" tvg-logo="https://iili.io/JXBspKQ.png" group-title="ELEVEN PT",Eleven 1 PT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=610ad79e26a84fc782c987455e21a86b:d2d4acc6e79447b55f3f5c0267af06f5
-https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport_HD_HVC.mpd
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-054/stream.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/vZ3pSq8/go3sport2.png" group-title="GO3 LIVE", GO3 Sport 2 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 2.pt" tvg-logo="https://iili.io/JXBsbix.png" group-title="ELEVEN PT",Eleven 2 PT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3fc5ce88ae24460bafa447b53ab5f548:476a55ef72c5e27e310668b1667da615
-https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport2_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport2_HD_HVC.mpd
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-055/stream.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/McNdZnx/go3sport3.png" group-title="GO3 LIVE", GO3 Sport 3 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 3.pt" tvg-logo="https://iili.io/JXBstob.png" group-title="ELEVEN PT",Eleven 3 PT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a2a75672057f462089c2849b8184fcb0:94899cace4911c617c27d8f878de2b43
-https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport3_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport3_HD_HVC.mpd
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-056/stream.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/JQXQfyq/go3sportopen.png" group-title="GO3 LIVE", GO3 Sport OPEN 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 4.pt" tvg-logo="https://iili.io/JXBsQDu.png" group-title="ELEVEN PT",Eleven 4 PT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e4515ae969cb46ae89997c8308b70e4d:bdc640533aac8955a6293158210e0a7d
-https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport4_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport4_HD_HVC.mpd
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-057/stream.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fQSmk0y/go3sport1.png" group-title="GO3 LIVE", GO3 Sport 1*
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 5.pt" tvg-logo="https://iili.io/JXBsylV.png" group-title="ELEVEN PT",Eleven 5 PT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f48a8131e05f4d6e84de19f086c781a6:fd28f2f966a906f4d4dcfd72ae90094e
-https://tr.live.cdn.cgates.lt/live/dash/560502/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-058/stream.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/vZ3pSq8/go3sport2.png" group-title="GO3 LIVE", GO3 Sport 2*
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 6.pt" tvg-logo="https://iili.io/JXBL9UB.png" group-title="ELEVEN PT",Eleven 6 PT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8315b1996d92477b965cb29100a3dc07:0081c0674e9047e219caa27a07da9d4b
-https://tr.live.cdn.cgates.lt/live/dash/560505/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-059/stream.mpd
+ 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/JQXQfyq/go3sportopen.png" group-title="GO3 LIVE", GO3 Sport OPEN*
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a6b967afcb974bb5a549377b4f09befd:87d993257a099324ccd0215475fc61a0
-https://tr.live.cdn.cgates.lt/live/dash/561402/index.mpd
 
-       
 _-_-_-SPORT TV_-_-_
-
-
-
-
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyXuJBOjJKQM6GIGRgqqaKgfABF9-dpJMYXFNm5z4A&s" group-title="SPORT TV" , SporTV HD
 http://51.79.39.236:80/negmjjbg/jwV0Qy1h71/608030
@@ -943,40 +927,78 @@ http://tv.cloudcdn.me/live.ts?channelId=102479&uid=4944&deviceMac=00:1A:79:94:98
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png",Sports 18 1 HD
 http://103.120.172.74:5500
 
-#EXTINF:-1 tvg-id="HERE" tvg-logo="https://i.ibb.co.com/W2pff22/skysport25x.png" group-title="SPORTS", Sky SPORT 251 🇮🇹
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="SportdigitalFUSSBALL.de" tvg-logo="https://iili.io/JhkZZKv.png" group-title="SPORTS",sportdigital
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00368000eaecbeeafd84c05b3b8243af:8f84185910e18ae0ca8a45004625a000
-https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31917/FHD/skysport251/master.mpd
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-022/stream.mpd
 
-#EXTINF:-1 tvg-id="HERE" tvg-logo="https://i.ibb.co.com/W2pff22/skysport25x.png" group-title="SPORTS", Sky SPORT 252 🇮🇹
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="DAZN 1" tvg-logo="https://iili.io/JhkZfu1.png" group-title="SPORTS",DAZN 1 España
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0036c4797608fc64296d437bc6f8b790:1689af84b23f514005f9bb854da7667f
-https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32951/FHD/skysport252/master.mpd
+#KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
+ 
+#EXTINF:-1 tvg-id="DAZN 2" tvg-logo="https://iili.io/JhkZ38B.png" group-title="SPORTS",DAZN 2 España
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
+ 
+#EXTINF:-1 tvg-id="DAZN 3" tvg-logo="https://iili.io/JhkZFyP.png" group-title="SPORTS",DAZN 3 España
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bad8efff688c0dbb3711e4a7114c22a3:6ba800673b20776c0c850130d45e1920
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/zy1ee5sshp/out/v1/bdcffa69fa3b4f3bb3569c9c73ee1c01/cenc.mpd
+ 
+#EXTINF:-1 tvg-id="DAZN 4" tvg-logo="https://iili.io/JhkZBZg.png" group-title="SPORTS",DAZN 4 España
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d27104d427e4f87e75b19395a9f8796b:723593c70e2d4c4862754398e80168f8
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/up7qpwch9b/out/v1/a6d5d1a1287b4893b859c2d6ccf2c65d/cenc.mpd
 
-#EXTINF:-1 tvg-id="Sky Sport Calcio.it" tvg-logo="https://i.ibb.co.com/qkrBGMd/skycalcio.png" group-title="SPORTS", Sky SPORT CALCIO 🇮🇹
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-logo="https://iili.io/JhkZx6v.png" group-title="SPORTS",Eurosport 1 España
+#EXTVLCOPT:network-caching=1500
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0036e5d0e88dfb087f1791da6150ced9:0bc653d830837dceb13bd17169f0f8e2
-https://linear301-it-dash1-prd-akp1.cdn13.skycdp.com/016a/31209/FHD/skysportseriea/master.mpd
+#KODIPROP:inputstream.adaptive.license_key=237be8ca9383755e9f5784dd23f545eb:15a723773c3b3cbce295c0aed0bc71c3
+https://ott.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_enc/eurosport_1_hd.mpd
+ 
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="https://iili.io/JhkZIFR.png" group-title="SPORTS",Eurosport 2 España
+#EXTVLCOPT:network-caching=1500
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=15382879a9bcfa6f1a04a86d5b4324e9:664241133368ab039dc1fb15206ba54b
+https://ott.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_enc/eurosport_2_hd.mpd
 
-#EXTINF:-1 tvg-id="Sky Sport MotoGP.it" tvg-logo="https://i.ibb.co.com/TBWFWwZ/skymtgp.png" group-title="SPORTS", Sky SPORT MOTOGP 🇮🇹
+#EXTINF:-1 tvg-id="Star Sports Select 1 HD" tvg-logo="https://iili.io/JbnB6G4.png" group-title="SPORTS",Star Sports Select 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://www.bigcric.site/bigcchubchat/keys.php?show_id=246
+#KODIPROP:inputstream.adaptive.stream_headers=X-Forwarded-For=14.140.131.82
+https://mpd-v1.bigcric.site/api/246.mpd
+ 
+#EXTINF:-1 tvg-id="Star Sports Select 2 HD" tvg-logo="https://iili.io/JbnBw4p.png" group-title="SPORTS",Star Sports Select 2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://www.bigcric.site/bigcchubchat/keys.php?show_id=463
+#KODIPROP:inputstream.adaptive.stream_headers=X-Forwarded-For=14.140.131.82
+https://mpd-v1.bigcric.site/api/463.mpd
+ 
+EXTINF:-1 tvg-id="Pro Arena" tvg-logo="https://iili.io/d9laa7R.png" group-title="SPORTS",Pro Arena
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0036ea2e908d4cc20ef08595da9ff991:08e1ae9fa0ee4d9ec2b194c4908613ae
-https://linear306-it-dash1-prd.selector.skycdn.it/016a/31483/FHD/skysportmotogp/master.mpd
+#KODIPROP:inputstream.adaptive.license_key=fa59a3d9aef54b58b0301c4f739b8c65:84f5b4481e244e7dbee7cafd9d1a618a
+https://m7rovideolive.solocoo.tv/blueskylivedash/blueprox/Manifest.mpd
 
-#EXTINF:-1 tvg-id="Sky Sport Uno.it" tvg-logo="https://i.ibb.co.com/hFrqB1J/skysportuno.png" group-title="SPORTS", Sky SPORT UNO 🇮🇹
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="AR - ESPN" tvg-logo="https://iili.io/JmoIfF2.png" group-title="SPORTS",ESPN Argentina
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00362452ed102000ccea64c311921dc2:02f27bd6caab7633d3083b94d3958b1c
-https://linear301-it-dash1-prd.selector.skycdn.it/016a/31023/FHD/skysportuno/master.mpd
+#KODIPROP:inputstream.adaptive.license_key=56f12bf8ad1b47f99bb92deae2165d54:5c4d0306c4c45054169531dcc75cb8b7
+#EXTVLCOPT:http-referrer=https://nowtv.express.com.ar/
+https://anedgesgo.express.com.ar/live/c1eds/ESPN_HD/SA_DASH_cipix/ESPN_HD.mpd
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="Матч ТВ" tvg-logo="https://i.ibb.co.com/580BTxg/matchru.png", MATCH! 🇷🇺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -1266,14 +1288,6 @@ https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=40d4210e476340e091d5433d45fdd8f1:090459185a95c99e6bae332d689e6fbe
 https://cors-proxy.elfsight.com/https://live-streaming-rsm.azureedge.net/wwehd/wwehd_cenc.isml/.mpd
-
-#EXTINF:-1 tvg-id="AioSport1.ir" tvg-logo="https://assets.aionet.ir/channels/100347" group-title="SPORTS",Aio Sport 1
-https://live.aionet.ir/hls/aiosport/aiosport.m3u8
-#EXTINF:-1 tvg-id="AioSport2.ir" tvg-logo="https://assets.aionet.ir/channels/100347" group-title="SPORTS",Aio Sport 2
-https://live.aionet.ir/hls/aiosport2/aiosport2.m3u8
-
-EXTINF:-1 tvg-id="DDSports.in" tvg-logo="https://i.imgur.com/J2Ky5OO.png" group-title="SPORTS",DD Sports
-http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 
 
 
