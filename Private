@@ -121,9 +121,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_v
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://streaming.indihometv.com/atm/DASH/inews/manifest.mpd
 
-#EXTINF:-1 group-title="LOKAL ID" tvg-logo="https://dl.dropboxusercontent.com/s/4mga5xltpd3ygxn/kompastv.png",KOMPAS TV
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/165060
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/ENT.png/revision/latest/scale-to-width-down/200?cb=20210109124512" group-title="LOKAL ID",MNC ENTERTAINMENT
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1072,26 +1069,104 @@ http://195.26.87.217/live.ts?channelId=125431&uid=3453&deviceMac=00:1A:79:01:04:
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Jz82wz5m/20220927-065129.png" group-title="SPORTS", Astro Supersport 4
 http://195.26.87.217/live.ts?channelId=125432&uid=3453&deviceMac=00:1A:79:01:04:AC
 
-#EXTINF:-1 group-title="SPORTS" tvg-id="sonyten1.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png",Sony Sports 1 HD
-https://mhdtvweb.com/sonyliv/stream.php?id=sony-ten-1-hd&=.m3u8|Referer=https://mhdtvweb.com/sonyliv/
-#EXTINF:-1 group-title="SPORTS" tvg-id="sonyten2.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png",Sony Sports 2 HD
-https://mhdtvweb.com/sonyliv/stream.php?id=sony-ten-2-hd&=.m3u8|Referer=https://mhdtvweb.com/sonyliv/
-#EXTINF:-1 group-title="SPORTS" tvg-id="sonyten3.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png",Sony Sports 3 HD
-https://mhdtvweb.com/sonyliv/stream.php?id=sony-ten-3-hd&=.m3u8|Referer=https://mhdtvweb.com/sonyliv/
-#EXTINF:-1 group-title="SPORTS" tvg-id="sonyten4.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen4_HD.png",Sony Sports 4 HD
-https://mhdtvweb.com/sonyliv/stream.php?id=sony-ten-4-hd&=.m3u8|Referer=https://mhdtvweb.com/sonyliv/
-#EXTINF:-1 group-title="SPORTS" tvg-id="sonysix.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png",Sony Sports 5 HD
-https://mhdtvweb.com/sonyliv/stream.php?id=sony-ten-5-hd&=.m3u8|Referer=https://mhdtvweb.com/sonyliv/
+#EXTINF:-1 tvg-logo="https://logonoid.com/images/cctv-logo.png" group-title="SPORTS", CCTV5
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/72
+
+#EXTINF:-1 tvg-logo="https://logonoid.com/images/cctv-logo.png" group-title="SPORTS", CCTV5+
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/73
+
+#EXTINF:-1 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier1.png" group-title="SPORTS",True Premiere 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
+#https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/129
+
+#EXTINF:-1 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier2.png" group-title="SPORTS",True Premiere 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
+#https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/130
+
+#EXTINF:-1 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier3.png" group-title="SPORTS",True Premiere 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
+#https://sport.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/102
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="truesports1.th" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png",True Sports 1
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#https://sport.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/96
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="truesports2.th" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_320.png",True Sports 2
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#https://sport.livedoomovies.com:4431/02_2sporthd2_720p/chunklist.m3u8
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/97
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="truesports3.th" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_320.webp",True Sports 3
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#https://sport.livedoomovies.com:4431/02_2sporthd3_720p/chunklist.m3u8
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/98
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="truesports4.th" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/293236c0-7374-11ec-b576-afbb0a1303ef_webp_original.png",True Sports 4
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#https://sport.livedoomovies.com:4431/02_2sporthd4_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="truesports5.th" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png",True Sports 5
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#https://sport.livedoomovies.com:4432/02_sports5_480p/chunklist.m3u8
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/99
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="truesports5.th" tvg-logo="",True Sports 7
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/100
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 1 HD" tvg-url="https://www.bevy.be/bevyfiles/indiapremium1.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Sony_Sports_Network_Logo.png" group-title="SPORTS",Sony Sports 1
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/154.ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 2 HD" tvg-url="https://www.bevy.be/bevyfiles/indiapremium1.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Sony_Sports_Network_Logo.png" group-title="SPORTS",Sony Sports 2 
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/31314.ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 3 HD" tvg-url="https://www.bevy.be/bevyfiles/indiapremium1.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Sony_Sports_Network_Logo.png" group-title="SPORTS",Sony Sports 3 
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/146.ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indiapremium1.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Sony_Sports_Network_Logo.png" group-title="SPORTS",Sony Sports 4 
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/29469.ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 5 HD" tvg-url="https://www.bevy.be/bevyfiles/indiapremium1.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Sony_Sports_Network_Logo.png" group-title="SPORTS",Sony Sports 5
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/176.ts
 
 
-#EXTINF:-1 tvg-id="unifi Sports 1" tvg-logo="https://i.ibb.co/p24tp0P/unifisports.png" group-title="SPORTS", UNIFI SPORTS 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
 
-#EXTINF:-1 tvg-id="unifi Sports 1" tvg-logo="https://i.ibb.co/p24tp0P/unifisports.png" group-title="SPORTS", UNIFI SPORTS 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cbb673fb120882354735ed57eeb05b4c:fe003f7aeec40eb65d20b14edfda2a86
-https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227877/3221227877.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=pDVeBhPtc549NayvHFA0JHqiwYJ%2FKEP6UdMtjXIjIzrjYyGN4h5HPUHLEk%2FvL80xPjG9KTt82xXCdpGInMoKWMBLe9Ie9rQgSTZ%2FmsUArMht5J0dsgfU28LWZM15p3G2%3A20221124103114%3AUTC%2C10001002142071%2C115.164.56.153%2C20221124103114%2Curn:Huawei:liveTV:XTV54185493%2C10001002142071%2C-1%2C0%2C1%2C%2C%2C2%2CHESA0002%2C%2C%2C2%2C10000104188313%2C0%2C10000103564441%2C798506651%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6003&from=5&ocs=2_1.9.62.168_80&hms_devid=1785&mag_hms=1785,1793,1786,1788&it=H4sIAAAAAAAAA0XMQQvCIBiA4X_jUdTPJjt4KoIuEqy6xqd-ycBN0jXo38ci6P4-71Ix0OlgwQtjAoAG2mlJvqe-wwCx0xCVNoE1erpigQXMeZyTK3Fjt2F_l4ILrpTkUrHLtjtmTFZ9S_eaPNU_G6iuYyAb24Ov2DimVCnhMpaZnzO-rzX_kg9sQKxomQAAAA
 
 #EXTINF:-1 tvg-id="Arena Sport 1 HD.ba" tvg-logo="https://i.ibb.co/sggNDR7/a1.png" group-title="SPORTS", ARENA SPORT 1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
