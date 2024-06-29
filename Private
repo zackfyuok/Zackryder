@@ -1028,6 +1028,24 @@ https://m7rovideolive.solocoo.tv/blueskylivedash/blueprox/Manifest.mpd
 #EXTVLCOPT:http-referrer=https://nowtv.express.com.ar/
 https://anedgesgo.express.com.ar/live/c1eds/ESPN_HD/SA_DASH_cipix/ESPN_HD.mpd
 
+#EXTINF:-1 tvg-id="PPV• EVENTOS 1 (HD)" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="SPORTS", PPV 1 HD
+http://ultrapremium.cloud:8080/33mera76wa76fe34/m37me65wu93m/20203
+
+#EXTINF:-1 tvg-id="PPV• EVENTOS 2 (HD)" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="SPORTS", PPV 2 HD
+http://ultrapremium.cloud:8080/33mera76wa76fe34/m37me65wu93m/20220
+
+#EXTINF:-1 tvg-id="PPV• EVENTOS 3 (HD)" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="SPORTS", PPV 3 HD
+http://ultrapremium.cloud:8080/33mera76wa76fe34/m37me65wu93m/20233
+
+#EXTINF:-1 tvg-id="PPV• EVENTOS 4 (HD)" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="SPORTS", PPV 4 HD
+http://ultrapremium.cloud:8080/33mera76wa76fe34/m37me65wu93m/20285
+
+#EXTINF:-1 tvg-id="PPV• EVENTOS 5 (HD)" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="SPORTS", PPV 5 HD
+http://ultrapremium.cloud:8080/33mera76wa76fe34/m37me65wu93m/20286
+
+#EXTINF:-1 tvg-id="PPV• DIRECTV SPORTS FIGHT (HD)" tvg-logo="https://seeklogo.com/images/D/directv-sports-fight-logo-BBD16A544F-seeklogo.com.png" group-title="SPORTS", PPV DIRECTV SPORTS FIGHT (HD)
+http://ultrapremium.cloud:8080/33mera76wa76fe34/m37me65wu93m/20350
+
 #EXTINF:-1 group-title="SPORTS" tvg-id="Матч ТВ" tvg-logo="https://i.ibb.co.com/580BTxg/matchru.png", MATCH! 🇷🇺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
