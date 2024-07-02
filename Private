@@ -943,35 +943,12 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/zy1ee5sshp/o
 #KODIPROP:inputstream.adaptive.license_key=d27104d427e4f87e75b19395a9f8796b:723593c70e2d4c4862754398e80168f8
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/up7qpwch9b/out/v1/a6d5d1a1287b4893b859c2d6ccf2c65d/cenc.mpd
 
-#EXTINF:-1 tvg-id="Eurosport 1" tvg-logo="https://iili.io/JhkZx6v.png" group-title="SPORTS",Eurosport 1 España
-#EXTVLCOPT:network-caching=1500
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=237be8ca9383755e9f5784dd23f545eb:15a723773c3b3cbce295c0aed0bc71c3
-https://ott.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_enc/eurosport_1_hd.mpd
- 
-#EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="https://iili.io/JhkZIFR.png" group-title="SPORTS",Eurosport 2 España
-#EXTVLCOPT:network-caching=1500
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=15382879a9bcfa6f1a04a86d5b4324e9:664241133368ab039dc1fb15206ba54b
-https://ott.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_enc/eurosport_2_hd.mpd
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/474_eurosport.jpg" group-title="SPORTS" ,EUROSPORTS 1 UK
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3511
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/474_eurosport.jpg" group-title="SPORTS" ,EUROSPORTS 2 UK
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3512
 
-#EXTINF:-1 tvg-id="Star Sports Select 1 HD" tvg-logo="https://iili.io/JbnB6G4.png" group-title="SPORTS",Star Sports Select 1
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://www.bigcric.site/bigcchubchat/keys.php?show_id=246
-#KODIPROP:inputstream.adaptive.stream_headers=X-Forwarded-For=14.140.131.82
-https://mpd-v1.bigcric.site/api/246.mpd
- 
-#EXTINF:-1 tvg-id="Star Sports Select 2 HD" tvg-logo="https://iili.io/JbnBw4p.png" group-title="SPORTS",Star Sports Select 2
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://www.bigcric.site/bigcchubchat/keys.php?show_id=463
-#KODIPROP:inputstream.adaptive.stream_headers=X-Forwarded-For=14.140.131.82
-https://mpd-v1.bigcric.site/api/463.mpd
+
  
 EXTINF:-1 tvg-id="Pro Arena" tvg-logo="https://iili.io/d9laa7R.png" group-title="SPORTS",Pro Arena
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1158,7 +1135,20 @@ http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/29469.ts
 #EXTINF:-1 tvg-id="SONY SPORTS TEN 5 HD" tvg-url="https://www.bevy.be/bevyfiles/indiapremium1.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Sony_Sports_Network_Logo.png" group-title="SPORTS",Sony Sports 5
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/176.ts
 
-
+#EXTINF:-1 tvg-logo="https://media.info/i/lf/900/1489224113/6550.png" group-title="SPORTS" FOX SPORTS 501
+http://mohdtv.com:8880/smarttv30a6120d1f38/12625782/61080
+#EXTINF:-1 tvg-logo="https://ia803407.us.archive.org/29/items/502_20210317/502.gif" group-title="SPORTS" ,FOX SPORTS 502
+http://mohdtv.com:8880/smarttv30a6120d1f38/12625782/61081
+#EXTINF:-1 tvg-logo="https://ia903407.us.archive.org/29/items/502_20210317/503.gif" group-title="SPORTS" ,FOX SPORTS 503
+http://mohdtv.com:8880/smarttv30a6120d1f38/12625782/61082
+#EXTINF:-1 tvg-logo="https://ia803407.us.archive.org/29/items/502_20210317/504.gif" group-title="SPORTS" ,FOX SPORTS 504
+http://mohdtv.com:8880/smarttv30a6120d1f38/12625782/61083
+#EXTINF:-1 tvg-logo="https://ia903407.us.archive.org/29/items/502_20210317/505.gif" group-title="SPORTS" ,FOX SPORTS 505
+http://mohdtv.com:8880/smarttv30a6120d1f38/12625782/61084
+#EXTINF:-1 tvg-logo="https://ia903407.us.archive.org/29/items/502_20210317/506.gif" group-title="SPORTS" ,FOX SPORTS 506
+http://mohdtv.com:8880/smarttv30a6120d1f38/12625782/61085
+#EXTINF:-1 tvg-logo="https://ia803407.us.archive.org/29/items/502_20210317/507.gif" group-title="SPORTS" ,FOX SPORTS 507
+http://mohdtv.com:8880/smarttv30a6120d1f38/12625782/61086
 
 
 #EXTINF:-1 tvg-id="Arena Sport 1 HD.ba" tvg-logo="https://i.ibb.co/sggNDR7/a1.png" group-title="SPORTS", ARENA SPORT 1 
@@ -1237,31 +1227,9 @@ https://cors-proxy.elfsight.com/https://dash2.antik.sk/stream/nvidia_arena_sport
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://cors-proxy.elfsight.com/https://dash2.antik.sk/stream/hisi_as2/playlist_cbcs.mpd
 
-#EXTINF:-1 tvg-id="Ziggo Sport" tvg-logo="https://i.ibb.co/HV2c1Cc/ziggosport.png" group-title="SPORTS", ZIGGO SPORT 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0be3d503dba13fc9a9c8ad4b89f599e6:578c2231c526c5e9eb415411e36871bf
-https://wp7-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000014_019661/_shared_6a89db18ec4202bae4d424e84c1f46a2/NL_000014_019661.mpd
 
-#EXTINF:-1 tvg-id="Ziggo Sport Select" tvg-logo="https://i.ibb.co/995ZNdQ/ziggoselect.png" group-title="SPORTS", ZIGGO SPORT SELECT 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
-https://wp1-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000094_019321/_shared_cc010062b17300c4504b6ab5681b5417/NL_000094_019321.mpd
 
-#EXTINF:-1 tvg-id="NBCSportsBoston.us" tvg-name="" tvg-logo="https://i.ibb.co/T4dqdwR/nbcsp.png" group-title="SPORTS" ,NBC SPORTS 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0020d88a6713159839743f655c5da7de:ba9f34226301f69a4f0f13f65a1f92ec
-https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/pf4SxjC/knbc.png" group-title="SPORTS" ,NBC4 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
 
 #EXTINF:-1 tvg-id="RTL club.be" tvg-logo="https://i.ibb.co/ZWbsXFL/rtlsports.png" group-title="SPORTS" ,RTL SPORTS SD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1302,47 +1270,17 @@ https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227877/32
 #EXTINF:-1 tvg-chno="413" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="SPORTS",L'ÉQUIPE LIVE FOOT
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipelive5.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="US: FS1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/30569238d01ed9c7e8f50b4f61c70865.png" group-title="SPORTS", FS1
-http://xtv.ooo:8080/Faisal0333/Adnan2148703/347289
+#EXTINF:-1 tvg-logo="https://ia902308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="SPORTS" ,PT:Sport TV 1 HD
+http://mohdtv.com:8880/smarttv30a6120d1f38/12625782/3192
+#EXTINF:-1 tvg-logo="https://ia902308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="SPORTS" ,PT:Sport TV 2 HD
+http://mohdtv.com:8880/smarttv30a6120d1f38/12625782/3191
+#EXTINF:-1 tvg-logo="https://ia902308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="SPORTS" ,PT:Sport TV 3 HD
+http://mohdtv.com:8880/smarttv30a6120d1f38/12625782/3190
+#EXTINF:-1 tvg-logo="https://ia902308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="SPORTS" ,PT:Sport TV 4 HD
+http://mohdtv.com:8880/smarttv30a6120d1f38/12625782/3189
+#EXTINF:-1 tvg-logo="https://ia902308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="SPORTS" ,PT:Sport TV 5 HD
+http://mohdtv.com:8880/smarttv30a6120d1f38/12625782/3188
 
-#EXTINF:-1 tvg-id="" tvg-name="US: FS2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/856321c9d4796d595d69b69d276520c9.png" group-title="SPORTS", FS2
-http://xtv.ooo:8080/Faisal0333/Adnan2148703/347290
-
-#EXTINF:-1 tvg-id="tsn1.ca" tvg-name="CA: TSN 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/1fba41bf57803049ca52a3131bf7b749.png" group-title="SPORTS", TSN 1
-http://xtv.ooo:8080/Faisal0333/Adnan2148703/349014
-
-#EXTINF:-1 tvg-id="tsn2.ca" tvg-name="CA: TSN 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/4b4253c607eecccc31f0ada0140f70c8.png" group-title="SPORTS", TSN 2
-http://xtv.ooo:8080/Faisal0333/Adnan2148703/349015
-
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",PTV Sports HD
-http://103.131.214.129:9985/stream/channel/7471a18fe4b67ea355d03b45b1f84f2c?profile=pass
-
-#EXTINF:-1 tvg-name="FOX 502" group-title="SPORTS",FOX 502
-http://iptvkita.my.id:25461/direct/hometv/1876
-
-#EXTINF:-1 tvg-name="FOX 504" group-title="SPORTS",FOX 504
-http://iptvkita.my.id:25461/direct/hometv/1877
-
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ Sport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/1c3051796e55e0ae4bc5c67f6bc50c49.jpg" group-title="SPORTS",FR: CANAL+ Sport 1
-http://xtv.ooo:8080/Faisal0333/Adnan2148703/350118
-
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ Sport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/207d0bf6cb14838f26078d7702168090.png" group-title="SPORTS",FR: CANAL+ Sport 2
-http://xtv.ooo:8080/Faisal0333/Adnan2148703/350119
-
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ Sport 3" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/ccdd67e3afbdfaa1fabdc29c99820433.png" group-title="SPORTS",FR: CANAL+ Sport 3
-http://xtv.ooo:8080/Faisal0333/Adnan2148703/350120
-
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ Sport 4" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/f389c3a9b79953394fda84bdc4044658.png" group-title="SPORTS",FR: CANAL+ Sport 4
-http://xtv.ooo:8080/Faisal0333/Adnan2148703/350121
-
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ Sport 5" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/d61d1906b88792e013fb83f7dab08ab1.png" group-title="SPORTS",FR: CANAL+ Sport 5
-http://xtv.ooo:8080/Faisal0333/Adnan2148703/350122
-
-#EXTINF:-1 tvg-id="polsatsport.pl" tvg-name="PL: Polsat Sport" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f3f3f2765b30bb460c9f2c07a2303b90.png" group-title="SPORTS", Polsat Sport
-http://xtv.ooo:8080/Faisal0333/Adnan2148703/352804
-
-#EXTINF:-1 tvg-id="" tvg-name="RU: Match! (МАТЧ!)" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/dc02ccae62d7096d76f9598180c4db5b.png" group-title="SPORTS",RU: Match! (МАТЧ!)
-http://xtv.ooo:8080/Faisal0333/Adnan2148703/353349
 
 #EXTINF:-1 tvg-id="" tvg-name="RS: Sport Klub" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d2c5dc85785e9c070002066c2c7865ec.png" group-title="SPORTS",RS: Sport Klub
 http://xtv.ooo:8080/Faisal0333/Adnan2148703/353738
