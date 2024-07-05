@@ -739,6 +739,8 @@ https://play.accolamedia.id/accola/maleo.stream/playlist.m3u8
 ###https://gachor99.my.id/inditv/citradangdut/playlist.m3u8
 http://iptvid.my.id/avc/udinlaw2022/jombang192/citradangdut.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/music/nagasw-ara.png"  group-title="MUSIC",Music Video Dangdut - Nagaswara
+https://nagaswaraclip.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/VJ6ID1fc0myMj33ZZpNAod8hb8i4Gkl0HOMl-RibO8ZhVxCvyOV8DDNgnA-68av-h_8Uy9eXkOQ=s176-c-k-c0x00ffffff-no-rj" group-title="MUSIC",Nagaswara DANGDUT
 https://nagaswarakoplo.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
