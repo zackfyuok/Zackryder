@@ -721,6 +721,75 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch7hd3/index.m3u8
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chpptvhd3/index.m3u8
 
 
+                ========MUSIC=====
+
+#EXTINF:-1 tvg-name="ID: I Konser" tvg-logo="https://images.indihometv.com/logo_ikonser_small.png" group-title="MUSIC",i konser 
+https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/29594
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_musikindo_small.png" group-title="MUSIC",Musik Indonesia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo/manifest.mpd
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/mm/maleo-id.png" group-title="MUSIC",Maleo 
+https://play.accolamedia.id/accola/maleo.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_citradangdut_ver1.png" group-title="MUSIC",Citra Dangdut 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+###https://gachor99.my.id/inditv/citradangdut/playlist.m3u8
+http://iptvid.my.id/avc/udinlaw2022/jombang192/citradangdut.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/VJ6ID1fc0myMj33ZZpNAod8hb8i4Gkl0HOMl-RibO8ZhVxCvyOV8DDNgnA-68av-h_8Uy9eXkOQ=s176-c-k-c0x00ffffff-no-rj" group-title="MUSIC",Nagaswara DANGDUT
+https://nagaswarakoplo.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/VJ6ID1fc0myMj33ZZpNAod8hb8i4Gkl0HOMl-RibO8ZhVxCvyOV8DDNgnA-68av-h_8Uy9eXkOQ=s176-c-k-c0x00ffffff-no-rj" group-title="MUSIC",Nagaswara POP
+https://nagaswara-pop.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-id="" tvg-logo="https://raw.githubusercontent.com/ghozitv/Playlist/main/LOGO.jpeg", Nagaswara Koplo
+https://nagaswarakoplo.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropbox.com/scl/fi/vw3etfgry23m9jzps7bi7/imtv.png?rlkey=ib1ir8gupe0wsfqytc31nhuui&dl=0" group-title="MUSIC",IMTV
+https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ID: Prambors" tvg-logo="https://images.indihometv.com/logo_pramborstv_small1.png?v=2.0.0.13" group-title="MUSIC",Prambors TV 
+https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/1157
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/VJ6ID1fc0myMj33ZZpNAod8hb8i4Gkl0HOMl-RibO8ZhVxCvyOV8DDNgnA-68av-h_8Uy9eXkOQ=s176-c-k-c0x00ffffff-no-rj" group-title="Music",musica (youtube)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.youtube.com/
+https://livestream.zazerconer.workers.dev/channel/UCNlU3oSU8UnJ_V9uMB-cPOg.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-name="Music Tv" tvg-logo="https://hometv.pw/logo/music/music_tv.png" group-title="MUSIC",Music Tv 
+https://melon-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c6857e04fca5017ec528dc550e98/2c1c8244c7b942fd9c00f938c745eb26.png" group-title="MUSIC",Musik Indonesia 
+https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c685730a4243017317dee5df1572/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FSiqLLSWQAIxK78?format=png&name=240x240" group-title="MUSIC",K Pop
+https://marine2.miplay.cl/kpop/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Pop Musik" tvg-name="Pop Musik" tvg-logo="https://i.postimg.cc/FRksPN7F/POP-MUSIK.png"  group-title="MUSIC",Pop Musik
+https://play.accolamedia.id/accola/popmusic.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-id="" tvg-logo="https://raw.githubusercontent.com/ghozitv/Playlist/main/LOGO.jpeg", MIC TV
+https://v2.siar.us/mic/live/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-id="" tvg-logo="https://raw.githubusercontent.com/ghozitv/Playlist/main/LOGO.jpeg", B4U MUSIC
+http://cdn2.pishow.tv/live/141/master.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-id="" tvg-logo="https://raw.githubusercontent.com/ghozitv/Playlist/main/LOGO.jpeg", MUSIC INDIA
+http://cdn2.pishow.tv/live/135/master.m3u8
+
+
+
+
+
                      =========DAZN=======
 
 
