@@ -1057,8 +1057,6 @@ http://ultrapremium.cloud:8080/33mera76wa76fe34/m37me65wu93m/20285
 #EXTINF:-1 tvg-id="PPV• EVENTOS 5 (HD)" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="SPORTS", PPV 5 HD
 http://ultrapremium.cloud:8080/33mera76wa76fe34/m37me65wu93m/20286
 
-#EXTINF:-1 tvg-id="PPV• DIRECTV SPORTS FIGHT (HD)" tvg-logo="https://seeklogo.com/images/D/directv-sports-fight-logo-BBD16A544F-seeklogo.com.png" group-title="SPORTS", PPV DIRECTV SPORTS FIGHT (HD)
-http://ultrapremium.cloud:8080/33mera76wa76fe34/m37me65wu93m/20350
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/fox_sport.png" group-title="SPORTS",Fox Sports 1
 http://117tv.icu:8080/live/X5xRz0/944877/1846.m3u8
@@ -1118,6 +1116,12 @@ https://strm.yandex.ru/kal/match_football2_hd/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6cfb55b12aaa9df1626a8adaa4f26329:84486e2e8e5fdee2ef8240019923078c
 https://video.beeline.tv/live/d/channel321.isml/manifest-stb.mpd
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/f9cbb250de1822306dc0b7e9cdd23c9a.png" group-title="SPORTS", Astro Arena 1
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/1703
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/f9cbb250de1822306dc0b7e9cdd23c9a.png" group-title="SPORTS", Astro Arena 2
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/1696
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Jz82wz5m/20220927-065129.png" group-title="SPORTS", Astro Supersport 1
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/1722
@@ -1218,8 +1222,6 @@ http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/29469.ts
 #EXTINF:-1 tvg-id="SONY SPORTS TEN 5 HD" tvg-url="https://www.bevy.be/bevyfiles/indiapremium1.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Sony_Sports_Network_Logo.png" group-title="SPORTS",Sony Sports 5
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/176.ts
 
-#EXTINF:-1 tvg-logo="https://media.info/i/lf/900/1489224113/6550.png" group-title="SPORTS" FOX SPORTS 501
-http://mohdtv.com:8880/smarttv30a6120d1f38/12625782/61080
 #EXTINF:-1 tvg-logo="https://ia803407.us.archive.org/29/items/502_20210317/502.gif" group-title="SPORTS" ,FOX SPORTS 502
 http://mohdtv.com:8880/smarttv30a6120d1f38/12625782/61081
 #EXTINF:-1 tvg-logo="https://ia903407.us.archive.org/29/items/502_20210317/503.gif" group-title="SPORTS" ,FOX SPORTS 503
@@ -1309,37 +1311,6 @@ https://cors-proxy.elfsight.com/https://dash2.antik.sk/stream/nvidia_arena_sport
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://cors-proxy.elfsight.com/https://dash2.antik.sk/stream/hisi_as2/playlist_cbcs.mpd
-
-
-
-
-
-#EXTINF:-1 tvg-id="RTL club.be" tvg-logo="https://i.ibb.co/ZWbsXFL/rtlsports.png" group-title="SPORTS" ,RTL SPORTS SD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b53316f32fc93b51a61ba6fdf0bce6c1:d752d66843a48a6fed64eed8f87adc3e
-https://origin2-rtlbe.live.6cloud.fr/pool_z6h2o6qd/clubrtl/rtlbesd/dash_short_cenc10_clubrtl/index.mpd
-
-#EXTINF:-1 tvg-id="RTL club.be" tvg-logo="https://i.ibb.co/ZWbsXFL/rtlsports.png" group-title="SPORTS" ,RTL SPORTS HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0993fbc9c0f242e8bab9483484ff974e:08d3d32f7efefb22a7a865f81b5c8276
-https://tvvvideolive3.solocoo.tv/blueskytvvlive7dash/bluertlclubhd/Manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZWr5NsB/rtshsport.png" group-title="SPORTS",RTSH SPORT HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"87c154e8e6934177b428a2a0fa5ac800":"2c036503c395aa3046956bd1eafe21e1","faad00102fbe44b39dd1c630aebf6500":"bdd28f4dc9f55f73fda58d80b1a35548"}
-https://tring.s.llnwi.net/delta/101/out/u/rtshsportottencryption.mpd
-
-#EXTINF:-1 tvg-id="here" tvg-logo="https://i.ibb.co/vBJp5Jp/rtvsport.png" group-title="SPORTS",RTVS PORT FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:11223344556677889900112233445566
-https://cors-proxy.elfsight.com/https://dash2.antik.sk/stream/nvidia_rtvs_sport/playlist_cenc.mpd
 
 #EXTINF:-1 tvg-id="unifi Sports 1" tvg-logo="https://i.ibb.co/p24tp0P/unifisports.png" group-title="SPORTS", UNIFI SPORTS 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
