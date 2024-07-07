@@ -1028,13 +1028,23 @@ http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3511
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/474_eurosport.jpg" group-title="SPORTS" ,EUROSPORTS 2 UK
 http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3512
 
+#EXTINF:-1, tvg-id="CanalPlusSport.fr" tvg-logo="https://static.epg.best/fr/CanalPlusSport.fr.png" tvg-name="Canal+ Sport 1"  group-title="SPORTS",Canal+ sport 1
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/2775
 
- 
-EXTINF:-1 tvg-id="Pro Arena" tvg-logo="https://iili.io/d9laa7R.png" group-title="SPORTS",Pro Arena
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fa59a3d9aef54b58b0301c4f739b8c65:84f5b4481e244e7dbee7cafd9d1a618a
-https://m7rovideolive.solocoo.tv/blueskylivedash/blueprox/Manifest.mpd
+#EXTINF:-1, tvg-id="CanalPlusSport.fr" tvg-logo="https://static.epg.best/fr/CanalPlusSport.fr.png" tvg-name="Canal+ Sport 2"  group-title="SPORTS",Canal+ Sport 2
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/28146
+
+#EXTINF:-1, tvg-id="CanalPlusSport.fr" tvg-logo="https://static.epg.best/fr/CanalPlusSport.fr.png" tvg-name="Canal+ Sport 3"  group-title="SPORTS",Canal+ Sport 3
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/28090
+
+#EXTINF:-1, tvg-id="CanalPlus.fr" tvg-logo="https://static.epg.best/fr/CanalPlus.fr.png" tvg-name="Canal+ MOTOGP"  group-title="SPORTS", Canal+ MOTOGP
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/2793
+
+#EXTINF:-1, tvg-id="CanalPlusSport360.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal-plus-sport-360-fr.png" tvg-name="Canal+ Sport 360 FHD"  group-title="SPORTS",Canal+ Sport 360 HD
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/2789
+
+#EXTINF:-1, tvg-id="CanalPlusSport.fr" tvg-logo="https://static.epg.best/fr/CanalPlusSport.fr.png" tvg-name="Canal+ Sport DIRECT"  group-title="SPORTS",Canal+ Sport DIRECT
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/2790
 
 #EXTINF:-1 tvg-id="AR - ESPN" tvg-logo="https://iili.io/JmoIfF2.png" group-title="SPORTS",ESPN Argentina
 #KODIPROP:inputstream.adaptive.license_type=clearkey
