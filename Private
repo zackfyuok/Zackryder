@@ -156,7 +156,7 @@ https://flv.intechmedia.net/live/ch107.m3u8
 #EXTINF:-1 tvg-name="SCTV" tvg-logo="https://hometv.pw/logo/lokal/sctv.png" group-title="U19",SCTV 1
 http://xtv.ooo:8080/Faisal0333/Adnan2148703/351030
 
-#EXTINF:-1 tvg-name="SCTV" tvg-logo="https://hometv.pw/logo/lokal/sctv.png" group-title="U19",SCTV 2
+#EXTINF:-1 group-title="U19" tvg-name="LIVE" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/n0jwNTAVrqEgfalPQB2VnwWENKw=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3587250/ec4ee6.jpg", | 14.25 WIB - Laos vs Australia - 18/07/2024
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aad3b98420ff07499eb2c064b6c4689c:7a9bcd82c08272df18f727d94d0034a9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
