@@ -152,15 +152,12 @@ https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
 https://flv.intechmedia.net/live/ch107.m3u8
 
                ============U19=========
-
-#EXTINF:-1 tvg-name="SCTV" tvg-logo="https://hometv.pw/logo/lokal/sctv.png" group-title="U19",SCTV 1
-http://xtv.ooo:8080/Faisal0333/Adnan2148703/351030
-
-#EXTINF:-1 group-title="U19" tvg-name="LIVE" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/n0jwNTAVrqEgfalPQB2VnwWENKw=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3587250/ec4ee6.jpg", | 14.25 WIB - Laos vs Australia - 18/07/2024
+#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/FyEkV6YhJOe53Xk7Eie2PUKf77Q=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3595840/a65464.jpg", | 18.28 WIB - Cambodia vs Indonesia - 20/07/2024
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aad3b98420ff07499eb2c064b6c4689c:7a9bcd82c08272df18f727d94d0034a9
+#KODIPROP:inputstream.adaptive.license_key=b5874021e33f49d4dac5cd55344b0d74:7b49f3eecf4e9336ffdb9a549d2ee781
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/204_stream.mpd?hdnts=exp=1721303489~acl=/drm/dash/*~id=159149263~hmac=b8d8db04871c4b02230acaea1573b786953b7f29a0bd28711d0de76ab66b5c52
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17578_stream.mpd?hdnts=exp=1721490886~acl=/drm/dash/*~id=69578335~hmac=6270dfd11ddf27c1e98a543198d998a05d0d7f3b5b9466a1a0c0ca8ea4c82b5e
+
 
             =========KIDS========
 
