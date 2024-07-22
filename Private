@@ -153,30 +153,23 @@ https://flv.intechmedia.net/live/ch107.m3u8
 
   ==========PIALA PRESIDEN=====
 
-#EXTINF:-1 group-title="PIALA PRESIDEN" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/QZ0OQjujzkXibft_p7232cRP8yA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3600545/ac0cf8.jpg", | Persis Solo vs PSM Makassar - Piala Presiden 2024 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=849e66e2deb224ddee3c8edee8b9be61:f55a0747fd676c19cbe97cc677429d94
+#EXTINF:-1 group-title="PIALA PRESIDEN" tvg-name="" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/dGNNfQSfl0yc2geIdEJurmF-54c=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3600546/795721.jpg", | PERSIB VS BORNEO
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17584_stream.mpd?hdnts=exp=1721650541~acl=/drm/dash/*~id=69578335~hmac=0171f9fedf5948a7eec01f09274bc316a79dc533889b2247f5a2685975e33acc
-
+https://179939170.cdnfree.pro/live/hplushd2/chunklist.m3u8
 
 
                ============U19=========
 
 
-#EXTINF:-1 group-title="U19" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/o76OTemYKR5gc61Cxyg7dZiEGE8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3598184/7aa4c8.jpg", | Myanmar vs Laos - ASEAN U19 Boys Championship 2024 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4ea341672cbdab3dd779977800766db2:4399f8fca9eaf3467d70d91eb070e1d6
+#EXTINF:-1 group-title="U19" tvg-name="" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/nzX5bz05FzmpRr3BMajBKR_TkT4=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3600524/c03107.jpg", | Singapore Vs Malaysia
+#EXTVLCOPT:http-referrer=https://i.fdcdn.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17579_stream.mpd?hdnts=exp=1721579648~acl=/drm/dash/*~id=37585759~hmac=64fbf01a874fae08220bd13ba23c88a10e9e0f9ce2aca3d9261d63ce31b47297
+https://apisportvb90xltcbk-secure.nsnd.live/DU8DTLLb0eeWxq2vpxwpLA/Fv2lucGIbhPi2caWYvF5Lg/1721673366543/live/sd-6MsFu4kcjG27FsUc6f/playlist.m3u8
 
 
 
-      ======PRO LIGA=====
-#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/T-l5CHqWA9MFlVmdkIQE69I9rwc=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3598188/1da594.jpg" group-title="PRO LIGA" tvg-id="001" tvg-name="", FINAL PRO LIGA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/live/17252/master.m3u8?hdnts=exp=1721580110~acl=/live/17252/*~id=69578335~hmac=bc84989ce11e86352aed1760b9159ec6b6676e1ed75158c2efcdc4a78eda33c8
-                 =========KIDS========
+               ============KIDS=========
 
 #EXTINF:-1 tvg-id="mjh-abc-kids" tvg-name="" tvg-logo="https://i.ibb.co/2FGJLGg/abckids.png" group-title="KIDS", ABC KIDS
 https://c.mjh.nz/abc-kids.m3u8
