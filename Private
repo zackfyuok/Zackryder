@@ -153,12 +153,12 @@ https://flv.intechmedia.net/live/ch107.m3u8
 
   ==========PIALA PRESIDEN=====
 
-
-#EXTINF:-1 group-title="PIALA PRESIDEN" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/fLfU1c0oqeCyyw0XGy8FH0nwpG4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3598186/cf7cbe.jpg", | Madura United FC vs Persija Jakarta - Piala Presiden 2024 
+#EXTINF:-1 group-title="PIALA PRESIDEN" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/QZ0OQjujzkXibft_p7232cRP8yA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3600545/ac0cf8.jpg", | Persis Solo vs PSM Makassar - Piala Presiden 2024 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=13e513ca807008120246b46838272c26:e392b41821e6e3a3d0426d1efb43df9f
+#KODIPROP:inputstream.adaptive.license_key=849e66e2deb224ddee3c8edee8b9be61:f55a0747fd676c19cbe97cc677429d94
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17585_stream.mpd?hdnts=exp=1721578404~acl=/drm/dash/*~id=69578335~hmac=98ff6639d7b851af71b55b4d658c308d85e1daa26b6552e2ec116ea1dcd539ff
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17584_stream.mpd?hdnts=exp=1721650541~acl=/drm/dash/*~id=69578335~hmac=0171f9fedf5948a7eec01f09274bc316a79dc533889b2247f5a2685975e33acc
+
 
 
                ============U19=========
