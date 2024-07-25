@@ -160,6 +160,24 @@ https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:43_HD.smil/mani
 https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:59_HD.smil/manifest.m3u8
        
 
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/1710170/screenshots/4221522/media/fdf1ca34862c66be6f092829a34d6174.jpg?resize=800x600&vertical=center" group-title="OLIMPIADE" , CH 3
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/380133.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/1710170/screenshots/4221522/media/fdf1ca34862c66be6f092829a34d6174.jpg?resize=800x600&vertical=center" group-title="OLIMPIADE" , CH 4
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/380134.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/1710170/screenshots/4221522/media/fdf1ca34862c66be6f092829a34d6174.jpg?resize=800x600&vertical=center" group-title="OLIMPIADE" , CH 5
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/380135.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/1710170/screenshots/4221522/media/fdf1ca34862c66be6f092829a34d6174.jpg?resize=800x600&vertical=center" group-title="OLIMPIADE" , CH 6
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/380135.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/1710170/screenshots/4221522/media/fdf1ca34862c66be6f092829a34d6174.jpg?resize=800x600&vertical=center" group-title="OLIMPIADE" , CH 7
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/380136.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/1710170/screenshots/4221522/media/fdf1ca34862c66be6f092829a34d6174.jpg?resize=800x600&vertical=center" group-title="OLIMPIADE" , CH 8
+http://dream4k.org:2082/Aziz2020_153801/MUPMohah/191792
+
 
   ==========PIALA PRESIDEN=====
 
@@ -1293,22 +1311,6 @@ http://117tv.icu:8080/live/X5xRz0/944877/66783.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/tsn.png" group-title="SPORTS",TSN 5
 http://117tv.icu:8080/live/X5xRz0/944877/57295.m3u8
 
-_-_-_-SPORT TV_-_-_
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyXuJBOjJKQM6GIGRgqqaKgfABF9-dpJMYXFNm5z4A&s" group-title="SPORT TV" , SporTV HD
-http://51.79.39.236:80/negmjjbg/jwV0Qy1h71/608030
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyXuJBOjJKQM6GIGRgqqaKgfABF9-dpJMYXFNm5z4A&s" group-title="SPORT TV" , SporTV HD
-http://51.79.39.236:80/negmjjbg/jwV0Qy1h71/608031
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyXuJBOjJKQM6GIGRgqqaKgfABF9-dpJMYXFNm5z4A&s" group-title="SPORT TV" , SporTV HD
-http://51.79.39.236:80/negmjjbg/jwV0Qy1h71/608044
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyXuJBOjJKQM6GIGRgqqaKgfABF9-dpJMYXFNm5z4A&s" group-title="SPORT TV" , SporTV HD
-http://51.79.39.236:80/negmjjbg/jwV0Qy1h71/608038
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyXuJBOjJKQM6GIGRgqqaKgfABF9-dpJMYXFNm5z4A&s" group-title="SPORT TV" , SporTV HD
-http://51.79.39.236:80/negmjjbg/jwV0Qy1h71/608044
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyXuJBOjJKQM6GIGRgqqaKgfABF9-dpJMYXFNm5z4A&s" group-title="SPORT TV" , SporTV HD
-http://51.79.39.236:80/negmjjbg/jwV0Qy1h71/608045
-
-
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png",Sports 18 1 HD
 http://tv.cloudcdn.me/live.ts?channelId=102479&uid=4944&deviceMac=00:1A:79:94:98:FE
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png",Sports 18 1 HD
@@ -2278,39 +2280,30 @@ https://ott1.cyberhost.ro/sdash/LIVE$DolceSport4/index.mpd/Manifest?start=LIVE&e
 -_-_ESPN_-_-
 
 
-#EXTINF:-1 tvg-id="ESPN.co" tvg-logo="https://i.ibb.co/GvptYtb/espn1cl.png" group-title="ESPN", ESPN 1
-http://51.79.39.236:80/negmjjbg/jwV0Qy1h71/602671
+#EXTINF:-1 tvg-id="ESPN.co" tvg-logo="https://i.ibb.co/GvptYtb/espn1cl.png" group-title="ESPN+", ESPN+ 1
+http://dream4k.org:2082/Aziz2020_153801/MUPMohah/279910
 
-#EXTINF:-1 tvg-id="ESPN.co" tvg-logo="https://i.ibb.co/GvptYtb/espn1cl.png" group-title="ESPN", ESPN 1
-http://51.79.39.236:80/negmjjbg/jwV0Qy1h71/602672
 
-#EXTINF:-1 tvg-id="ESPN.co" tvg-logo="https://i.ibb.co/GvptYtb/espn1cl.png" group-title="ESPN", ESPN 2
-http://51.79.39.236:80/negmjjbg/jwV0Qy1h71/602677
+#EXTINF:-1 tvg-id="ESPN.co" tvg-logo="https://i.ibb.co/GvptYtb/espn1cl.png" group-title="ESPN+", ESPN+ 2
+http://dream4k.org:2082/Aziz2020_153801/MUPMohah/279911
 
-#EXTINF:-1 tvg-id="ESPN.co" tvg-logo="https://i.ibb.co/GvptYtb/espn1cl.png" group-title="ESPN", ESPN 2
-http://51.79.39.236:80/negmjjbg/jwV0Qy1h71/602678
 
-#EXTINF:-1 tvg-id="ESPN.co" tvg-logo="https://i.ibb.co/GvptYtb/espn1cl.png" group-title="ESPN", ESPN 3
-http://51.79.39.236:80/negmjjbg/jwV0Qy1h71/602683
+#EXTINF:-1 tvg-id="ESPN.co" tvg-logo="https://i.ibb.co/GvptYtb/espn1cl.png" group-title="ESPN+", ESPN+ 3
+http://dream4k.org:2082/Aziz2020_153801/MUPMohah/279912
 
-#EXTINF:-1 tvg-id="ESPN.co" tvg-logo="https://i.ibb.co/GvptYtb/espn1cl.png" group-title="ESPN", ESPN 3
-http://51.79.39.236:80/negmjjbg/jwV0Qy1h71/602684
 
-#EXTINF:-1 tvg-id="ESPN.co" tvg-logo="https://i.ibb.co/GvptYtb/espn1cl.png" group-title="ESPN", ESPN 4
-http://51.79.39.236:80/negmjjbg/jwV0Qy1h71/602689
+#EXTINF:-1 tvg-id="ESPN.co" tvg-logo="https://i.ibb.co/GvptYtb/espn1cl.png" group-title="ESPN+", ESPN+ 4
+http://dream4k.org:2082/Aziz2020_153801/MUPMohah/279913
 
-#EXTINF:-1 tvg-id="ESPN.co" tvg-logo="https://i.ibb.co/GvptYtb/espn1cl.png" group-title="ESPN", ESPN 4
-http://51.79.39.236:80/negmjjbg/jwV0Qy1h71/602689
 
-#EXTINF:-1 tvg-id="ESPN.co" tvg-logo="https://i.ibb.co/GvptYtb/espn1cl.png" group-title="ESPN", ESPN 5
-http://51.79.39.236:80/negmjjbg/jwV0Qy1h71/608158
+#EXTINF:-1 tvg-id="ESPN.co" tvg-logo="https://i.ibb.co/GvptYtb/espn1cl.png" group-title="ESPN+", ESPN+ 5
+http://dream4k.org:2082/Aziz2020_153801/MUPMohah/279914
 
-#EXTINF:-1 tvg-id="ESPN.co" tvg-logo="https://i.ibb.co/GvptYtb/espn1cl.png" group-title="ESPN", ESPN 5
-http://51.79.39.236:80/negmjjbg/jwV0Qy1h71/608159
 
-#EXTINF:-1 tvg-id="ESPN.co" tvg-logo="https://i.ibb.co/GvptYtb/espn1cl.png" group-title="ESPN", ESPN 6
-http://51.79.39.236:80/negmjjbg/jwV0Qy1h71/608165
+#EXTINF:-1 tvg-id="ESPN.co" tvg-logo="https://i.ibb.co/GvptYtb/espn1cl.png" group-title="ESPN+", ESPN+ 6
+http://dream4k.org:2082/Aziz2020_153801/MUPMohah/279915
 
-#EXTINF:-1 tvg-id="ESPN.co" tvg-logo="https://i.ibb.co/GvptYtb/espn1cl.png" group-title="ESPN", ESPN 6
-http://51.79.39.236:80/negmjjbg/jwV0Qy1h71/608166
+
+
+
 
