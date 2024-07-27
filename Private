@@ -191,20 +191,12 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17585_stream.mpd?h
 
                ============U19=========
 
-
-#EXTINF:-1 group-title="U19" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/bWm0F830gA2hzBgm68-5ffmo-tQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3605491/ae57d6.jpg", | Laos vs Vietnam - ASEAN U19 Boys Championship 2024 
+#EXTINF:-1 group-title="U19" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/JMLU0vI0puA3WEZEWs9NnVB3Eio=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3612336/db19ec.jpg", | Semifinal: Australia vs Thailand - ASEAN U19 Boys Championship 2024 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4ea341672cbdab3dd779977800766db2:4399f8fca9eaf3467d70d91eb070e1d6
+#KODIPROP:inputstream.adaptive.license_key=dc7f3c3627037e37470e7adda483fe4e:5fe23c7e5771e9b0584b1318cc3280bd
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17579_stream.mpd?hdnts=exp=1721823246~acl=/drm/dash/*~id=37773602~hmac=6670a0ba1d2e2c681ee53cc437158602d7ae399b546e4e37efd3d446608a9af8
-
-#EXTINF:-1 group-title="U19" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/ea93PNIBAjMOjANOTbB5flFCU30=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3605485/a742e0.jpg", | Myanmar vs Australia - ASEAN U19 Boys Championship 2024 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b56244827da3dbe89d68e5ecd15c11a:8ccd2be637ab9640c66118cdca064dee
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17601_stream.mpd?hdnts=exp=1721823269~acl=/drm/dash/*~id=144291504~hmac=7fdb7d3567dfa02d62ffe07766b0bb7b26c6738d83812fe6afba29a2ca40c217
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17609_stream.mpd?hdnts=exp=1722082099~acl=/drm/dash/*~id=164396008~hmac=5c1a532508143037a42969f670baf3fb12cc1fcd88917c1dbb8dd0b9080f87fc
 
 
 
