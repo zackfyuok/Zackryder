@@ -187,7 +187,12 @@ http://dream4k.org:2082/Aziz2020_153801/MUPMohah/191792
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17585_stream.mpd?hdnts=exp=1722010472~acl=/drm/dash/*~id=164396008~hmac=60b7a81608e7c9d154f6e29d0447d917564071ae7864515fb260bad74f580044
 
+                =====VOLI======
 
+EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/pRx4B7C-6cm_MIQakIjz26GaJns=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3614868/ea538d.jpg", | AVC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17599_720p/hdntl=exp=1722184103~acl=%2f*~id=69578335~data=hdntl~hmac=1da8bc826c5868442fab021f1ec3c7eb74fd447c615effb45c750874df478e0f/index.m3u8
 
                ============U19=========
 
