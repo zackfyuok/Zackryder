@@ -2016,17 +2016,125 @@ https://cors-proxy.elfsight.com/https://live-streaming-rsm.azureedge.net/wwehd/w
 
 
 
-
-
-
-
-
-
-
-
-
-
-
+=============================BE IN SPORT==============
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",beIN SPORTS NEWS HD
+http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/105523
+#EXTINF:0 tvg-id="beinsportsnews.jsc" group-title="BEINSPORTS | SPORTS",BEINSPORTS NEWS SD
+http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/117704
+#EXTINF:0 tvg-id="BeINSports.es" group-title="BEINSPORTS | SPORTS",beIN SPORTS HD
+http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/60714
+#EXTINF:0 tvg-id="bein4Khd.jsc" group-title="BEINSPORTS | SPORTS",beIN SPORTS 4K
+http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/139969
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",beIN SPORTS 1 4K
+http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/119324
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="BEINSPORTS | SPORTS",beIN SPORTS 1 FHD
+http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/119325
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="BEINSPORTS | SPORTS",beIN SPORTS 1 HD
+http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/29741
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="BEINSPORTS | SPORTS",beIN SPORTS 1 SD
+http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/49223
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",beIN SPORTS 2 4K
+http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/119326
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="BEINSPORTS | SPORTS",beIN SPORTS 2 FHD
+http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/119327
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="BEINSPORTS | SPORTS",beIN SPORTS 2 HD
+http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/29740
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="BEINSPORTS | SPORTS",beIN SPORTS 2 SD
+http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/49222
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",beIN SPORTS 3 4K
+http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/119328
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="BEINSPORTS | SPORTS",beIN SPORTS 3 FHD
+http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/119329
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="BEINSPORTS | SPORTS",beIN SPORTS 3 HD
+http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/29739
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="BEINSPORTS | SPORTS",beIN SPORTS 3 SD
+http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/49221
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",beIN SPORTS 4 4K
+http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/119330
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="BEINSPORTS | SPORTS",beIN SPORTS 4 FHD
+http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/119331
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="BEINSPORTS | SPORTS",beIN SPORTS 4 HD
+http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/29738
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="BEINSPORTS | SPORTS",beIN SPORTS 4 SD
+http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/49220
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",beIN SPORTS 5 4K
+http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/119332
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="BEINSPORTS | SPORTS",beIN SPORTS 5 FHD
+http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/119333
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="BEINSPORTS | SPORTS",beIN SPORTS 5 HD
+http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/29737
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="BEINSPORTS | SPORTS",beIN SPORTS 5 SD
+http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/49219
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",beIN SPORTS 6 4K
+http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/119334
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="BEINSPORTS | SPORTS",beIN SPORTS 6 FHD
+http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/119335
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="BEINSPORTS | SPORTS",beIN SPORTS 6 HD
+http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/29736
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="BEINSPORTS | SPORTS",beIN SPORTS 6 SD
+http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/49218
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",beIN SPORTS 7 4K
+http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/119336
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="BEINSPORTS | SPORTS",beIN SPORTS 7 FHD
+http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/119337
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="BEINSPORTS | SPORTS",beIN SPORTS 7 HD
+http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/29735
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="BEINSPORTS | SPORTS",beIN SPORTS 7 SD
+http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/49217
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",beIN SPORTS 8 4K
+http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/119338
+#EXTINF:0 tvg-id="bein8hd.jsc" group-title="BEINSPORTS | SPORTS",beIN SPORTS 8 FHD
+http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/119339
+#EXTINF:0 tvg-id="bein8hd.jsc" group-title="BEINSPORTS | SPORTS",beIN SPORTS 8  HD
+http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/119354
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",beIN SPORTS 9 4K
+http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/119340
+#EXTINF:0 tvg-id="bein9hd.jsc" group-title="BEINSPORTS | SPORTS",beIN SPORTS 9 FHD
+http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/119341
+#EXTINF:0 tvg-id="bein9hd.jsc" group-title="BEINSPORTS | SPORTS",beIN SPORTS 9 HD
+http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/119355
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",BEINSPORTS EXTRA 1 HD
+http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/117706
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",BEINSPORTS EXTRA 1 SD
+http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/117707
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",BEINSPORTS EXTRA 2 HD
+http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/117708
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",BEINSPORTS EXTRA 2 SD
+http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/117709
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",BEINSPORTS EXTRA 3 HD
+http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/119972
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",BEINSPORTS EXTRA 3 SD
+http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/119973
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",BEINSPORTS 1 EN HD
+http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/117718
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",BEINSPORTS 1 EN 4K
+http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/142147
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",BEINSPORTS 2 EN HD
+http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/117720
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",BEINSPORTS 2 EN 4K
+http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/142148
+#EXTINF:0 tvg-id="beINSPORTSenespanol467.us" group-title="BEINSPORTS | SPORTS",beIN SPORTS ñ HD
+http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/74212
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",beIN SPORTS LA LIGA HD
+http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/71962
+#EXTINF:0 tvg-id="NBAtv.sport" group-title="BEINSPORTS | SPORTS",beIN SPORTS NBA HD
+http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/52120
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",BEINSPORTS AFC HD
+http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/117710
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",BEINSPORTS AFC SD
+http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/117711
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",BEINSPORTS AFC 1 HD
+http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/117712
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",BEINSPORTS AFC 1 SD
+http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/117713
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",BEINSPORTS AFC 2 HD
+http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/117714
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",BEINSPORTS AFC 2 SD
+http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/117715
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",BEINSPORTS AFC 3 HD
+http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/117716
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",BEINSPORTS AFC 3 SD
+http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/117717
 
 
          _-_-_-MOVIE_-_-_-
