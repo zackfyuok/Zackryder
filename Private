@@ -1695,6 +1695,8 @@ http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/2790
 #EXTVLCOPT:http-referrer=https://nowtv.express.com.ar/
 https://anedgesgo.express.com.ar/live/c1eds/ESPN_HD/SA_DASH_cipix/ESPN_HD.mpd
 
+=====================PPV SPORTS===========
+
 #EXTINF:-1 tvg-id="PPV• EVENTOS 1 (HD)" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="PPV SPORTS", PPV 1 HD
 http://ultrapremium.cloud:8080/33mera76wa76fe34/m37me65wu93m/20203
 
@@ -2013,6 +2015,97 @@ https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/m
 https://cors-proxy.elfsight.com/https://live-streaming-rsm.azureedge.net/wwehd/wwehd_cenc.isml/.mpd
 
 
+=====================TV SPORT 3=======
+
+
+
+
+#EXTINF:-1 tvg-id="BandSports.br" group-title="TV SPORT 3" tvg-logo="https://i.imgur.com/bvRubp2.png",Band Sport 🇧🇷
+https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/290/290.m3u8
+
+
+#EXTINF:-1 tvg-id="SporTV.br" tvg-name="" group-title="TV SPORT 3" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/sportvbr.webp",Sportv 1ᴴᴰ 🇧🇷 🟡
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/178
+#EXTINF:-1 tvg-id="SporTV2.br" tvg-name="" group-title="TV SPORT 3" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/sportv-2-br-hd.png",Sportv 2ᴴᴰ 🇧🇷 🟡
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/172
+#EXTINF:-1 tvg-id="SporTV3.br" group-title="TV SPORT 3" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/sportv-3-br-hd.png",Sportv 3ᴴᴰ 🇧🇷 🥊 🟡
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/175
+
+
+#EXTINF:-1 tvg-id="PremiereClubes.br" group-title="TV SPORT 3" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png",Premiere Clubesᴴᴰ 🇧🇷 🟡
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/164
+
+#EXTINF:-1 tvg-id="PREMIERE2" group-title="TV SPORT 3" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png",Premiere 2ᴴᴰ 🇧🇷 🟡
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/150
+
+#EXTINF:-1 tvg-id="PREMIERE3" group-title="TV SPORT 3" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png",Premiere 3ᴴᴰ 🇧🇷 🟡
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/152
+
+#EXTINF:-1 tvg-id="PREMIERE4" group-title="TV SPORT 3" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png",Premiere 4ᴴᴰ 🇧🇷 🟡
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/154
+
+#EXTINF:-1 tvg-id="PREMIERE5" group-title="TV SPORT 3" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png",Premiere 5ᴴᴰ 🇧🇷 🟡
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/156
+
+#EXTINF:-1 tvg-id="PREMIERE6" group-title="TV SPORT 3" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png",Premiere 6ᴴᴰ 🇧🇷 🟡
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/158
+
+========================WORD SPORT=============
+
+
+#EXTINF:-1 tvg-id="6320d80a66666000086712d7" tvg-name="" group-title="WORD SPORT" tvg-logo="https://images.pluto.tv/channels/6320d80a66666000086712d7/colorLogoPNG.png",Claro Sportsᴴᴰ 🇺🇸 🟤
+https://is.gd/DehQqF?6320d80a66666000086712d7.m3u8
+
+
+#EXTINF:-1 tvg-id="MLB Network HDTV" tvg-name="" group-title="WORD SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/MLBNetworkLogo.svg",MLBᴴᴰ 🇺🇸 🟤
+https://tinyurl.com/452f428j?profile=inspirationFreetv.m3u8
+
+#EXTINF:-1 tvg-id="FRBC4200004XH" tvg-name="" group-title="WORD SPORT" tvg-logo="https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-0-0-70/0cb67.png",L'Equipe Live 1 🇫🇷ᴴᴰ 🟤
+https://bit.ly/3VpqwET?profile=inspirationFreetv.m3u8
+#EXTINF:-1 tvg-id="FRBC4200005X2" tvg-name="" group-title="WORD SPORT" tvg-logo="https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-0-0-70/0cb67.png",L'Equipe Live 2 🇫🇷ᴴᴰ 🟤
+https://bit.ly/45pS7ds?profile=inspirationFreetv.m3u8
+
+#EXTINF:-1 tvg-id="SportenFrance.fr" tvg-name="" group-title="WORD SPORT" tvg-logo="https://i.ibb.co/p1stMyz/sportenfr.webp",Sport en Franceᴴᴰ 🇫🇷 
+https://sp1564435593.mytvchain.info/live/sp1564435593_720/index.m3u8
+
+
+==========================TYC SPORTS============
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TYC SPORTS" tvg-logo="https://statics-files.tycsports.com/frontend/general/img/tyc-blue.svg",TyC Sportsᴴᴰ 🇦🇷
+http://168.197.196.98:9981/stream/channelid/191278502?profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TYC SPORTS" tvg-logo="https://statics-files.tycsports.com/frontend/general/img/tyc-blue.svg",TyC Sportsᴴᴰ 🇦🇷
+http://177.234.230.226:8010/play/a01m/index.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="TYC SPORTS" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/TigoSports.png",Tigo Sports 🇵🇾
+https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
+#EXTINF:-1 tvg-id="" group-title="TYC SPORTS" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/141.png",Setanta Sports 1 🇺🇦
+https://hls.sweet.tv/stream/qfq2fp954aui9guc8e4d5526tu8uudcnyj342af9kxq8sry8g7n44bwe5rw4k6q68mxhy99h7z5abid8gkju2pcund6c4x89hq96789999.m3u8
+#EXTINF:-1 tvg-id="" group-title="TYC SPORTS" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/141.png",Setanta Sports Qazaqstan 🇺🇦
+https://bkm.beetv.kz/btv/live/hls/000002649.m3u8
+
+
+#EXTINF:-1 tvg-id="" group-title="Sports ⚽️🏀🏐🏈" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Marquee_Sports_Network_Logo.svg/512px-Marquee_Sports_Network_Logo.svg.png",MarqueeSports NetworK
+https://marqueelive.akamaized.net/live-pz/a/hls-itc/marquee1/index.m3u8
+
+
+=======================TENNIS==========
+
+#EXTINF:-1 tvg-id="GBBA33000529G" tvg-name="" group-title="TENNIS" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/11/GBBA33000529G_20220323T071122.png",Tennis Channel Internacional 🇺🇸 🟤
+https://bit.ly/3q3zsn6?profile=inspirationFreeTV.m3u8
+#EXTINF:-1 tvg-id="ATBA2200008XN" tvg-name="" group-title="TENNIS" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/11/GBBA33000529G_20220323T071122.png",Tennis Rain Delay Channelᴴᴰ 🇺🇸 🟤
+https://jmp2.uk/SamsungTVPlus/ATBA2200008XN.m3u8
+#EXTINF:-1 tvg-id="USBC600001QL" tvg-name="" group-title="TENNIS" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f03c74c1-e873-4346-beb0-804372660176/T2_1_1500_x_1000___Logo_Dark_BG_-_Ari_Brock.png",T2 🇺🇸 🟤
+https://jmp2.uk/SamsungTVPlus/USBC600001QL.m3u8
+#EXTINF:-1 tvg-id="USBC600001QL" tvg-name="" group-title="TENNIS" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f03c74c1-e873-4346-beb0-804372660176/T2_1_1500_x_1000___Logo_Dark_BG_-_Ari_Brock.png",T2 🇺🇸 🟤
+https://bit.ly/3O0Ex8P?profile=inspirationFreeTV.m3u8
+
+=============GOLF--------------
+
+#EXTINF:-1 tvg-id="5de94dacb394a300099fa22a" tvg-name="" group-title="GOLF" tvg-logo="https://images.pluto.tv/channels/5de94dacb394a300099fa22a/colorLogoPNG.png",PGA Tour 🇺🇸 🟤
+https://bit.ly/48WtyFK?profile=inspirationFreeTV.m3u8
+#EXTINF:-1 tvg-id="65493029ab052400089e9d2f" tvg-name="" group-title="GOLF" tvg-logo="https://images.pluto.tv/channels/65493029ab052400089e9d2f/colorLogoPNG.png",GolfPass 🇺🇸 🟤
+https://bit.ly/42nZAHa?profile=inspirationFreeTV.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="GOLF" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/onegolf.png",One Golf 🇺🇸 
+http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
 
 
 
@@ -4591,6 +4684,147 @@ https://its-nayeemparvez.xyz/thunder-streamz/playlist.m3u8?id=362e7cda610177dd0
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Eurosport.m3u8
 #EXTINF:-1 tvg-logo="https://starsat.co.za/wp-content/uploads/2021/02/MUTV-Manchester-United-TV.png" group-title="SPORTS KLUB",MU TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://starsat.co.za/wp-content/uploads/2021/02/MUTV-Manchester-United-TV.png" group-title="Sports",MU TV
+#EXTINF:-1 tvg-logo="https://starsat.co.za/wp-content/uploads/2021/02/MUTV-Manchester-United-TV.png" group-title="SPORTS KLUB",MU TV
 https://bcovlive-a.akamaihd.net/r6b4170ad9e8e4ed49986ecc03bac588b/eu-west-1/6058004203001/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS KLUB",Real Madrid TV
+
+
+ 🔰  Travel ✈️  🔰 
+
+
+
+
+
+#EXTINF:-1 tvg-name="" tvg-id="localnow_Drone TV" group-title="Travel ✈️" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/313L4DmcyrL.png",Drone TVᴴᴰ 🟤
+https://bit.ly/47WEeEj?profile=inspirationFreetv.m3u8
+
+#EXTINF:-1 tvg-id="5726" group-title="Travel ✈️" tvg-logo="https://nauticalchannel.com/img/ico/LOGO%20nautical%20WHITE.svg",Nautical Channelᴴᴰ 🇺🇸 🟤
+https://streams2.sofast.tv/ptnr-stirr/genre-Sports/lang-English/ctgr-Sport/title-Nautical_TV/vglive-sk-231198/index_4.m3u8
+#EXTINF:-1 tvg-id="ITBC400005TF" group-title="Travel ✈️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Outdoor_Channel_logo_2017.svg",Outdoor Channelᴴᴰ 🇺🇸 🟤
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoorchannel-lgau/playlist.m3u8
+#EXTINF:-1 tvg-id="ITBC400005TF" group-title="Travel ✈️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Outdoor_Channel_logo_2017.svg",Outdoor Channelᴴᴰ 🇺🇸 🟤
+https://amg00718-outdoorchannela-outdoortvnz-samsungnz-lylq4.amagi.tv/playlist/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="ITBC400005TF" group-title="Travel ✈️" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC400005TF_20231011T082527SQUARE.png_20231011082528.png",Montagna!ᴴᴰ 🇮🇹 🟤
+https://bit.ly/3SRYwtq?profile=inspirationFreetv.m3u8
+#EXTINF:-1 tvg-id="60511efd71ec430007f50d97" group-title="Travel ✈️" tvg-logo="https://images.pluto.tv/channels/60511efd71ec430007f50d97/colorLogoPNG.png",Mundo Viajeroᴴᴰ 🇪🇸 🟤
+https://bit.ly/3I0AOVr?profile=inspirationFreetv.m3u8
+#EXTINF:-1 tvg-id="ITBD1100005LL" group-title="Travel ✈️" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Travel%26Living.png",Travel & Livingᴴᴰ 🇮🇹 🟤
+https://bit.ly/3ObJtrP?profile=inspirationFreetv.m3u8
+#EXTINF:-1 tvg-id="DEBA100000404" group-title="Travel ✈️" tvg-logo="https://i.imgur.com/8KQirah.png",Travelxpᴴᴰ 🇺🇸 🟤
+https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="GBAJ49000184K" tvg-name="" group-title="Travel ✈️" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/91/DEBA100000404_20201208T050244.png",Travelxp 🇺🇸
+https://17f510c554f64f82a337896666d59b8f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_TravelXP/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Travel ✈️" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Trvl.png",Trvl Channelᴴᴰ 🇺🇸
+https://github.com/inspirationlinks/m3u/raw/live/Streams/trvl.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Travel ✈️" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Trvl.png",Trvl Channelᴴᴰ 🇺🇸
+https://denver1769.pages.dev/Discovery/trvl_channel_hd_english.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Travel ✈️" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Trvl.png",Trvl Channelᴴᴰ 🇺🇸
+https://dplus.gammacdn.workers.dev/videos/110.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Travel ✈️" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/AntiquesRoadTrip.webp",Antiques Road Tripᴴᴰ 🇬🇧 🟤
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Antiques-Road-Trip.m3u8
+#EXTINF:-1 tvg-id="" group-title="Travel ✈️" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/ViajandopeloBrasil.png",Viajando pelo Brasil 🇧🇷 
+https://bit.ly/3MMSuqk?profile=inspirationFreetv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Travel ✈️" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/travel4k.webp",4k Travel tv 🇺🇸 🟤
+https://bit.ly/3NiZ1tp?profile=inspirationFreetv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Travel ✈️" tvg-logo="https://www.autentic.com/images/Travel-Logo-positiv-RGB.svg",Autentic Travelᴴᴰ 🟤
+https://autentic-autentictravel-1-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Travel ✈️" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/TastemadeTravel.webp",Tastemade Travelᴴᴰ 🇺🇸 🟤
+https://tastemadetravel-vizio.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Travel ✈️" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/gousa.webp",GoUSAᴴᴰ 🇺🇸 🟤
+https://brandusa-gousa-1-in.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Travel ✈️" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhqCnqNTdS0PrE_H0yC2ZQ9cibQr1-JD4Pg6mCVLQ=s88-c-k-c0x00ffffff-no-rj",Trips Marterᴴᴰ 🇺🇸 
+http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
+
+🔰  Celebrities 🌟  🔰 
+
+
+
+
+
+#EXTINF:-1 tvg-id="5d8bf1472907815f66a866dd" tvg-name="" group-title="Celebrities 🌟" tvg-logo="https://images.pluto.tv/channels/5d8bf1472907815f66a866dd/colorLogoPNG.png",TV Celebrityᴴᴰ 🇺🇸 🟤
+https://is.gd/yTQk4T?5d8bf1472907815f66a866dd.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Celebrities 🌟" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/trailertv.png",Love Magazineᴴᴰ 🇺🇸 🟤
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovemagazineuk-lggb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Celebrities 🌟" tvg-logo="https://cdn.moviefone.com/legacy/assets/moviefone-website-logo.png",MovieFone tvᴴᴰ 🇺🇸 
+https://bit.ly/48t1sBR?profile=inspirationFreetv.m3u8
+
+
+#EXTINF:-1 tvg-name="" tvg-id="fashiontvhd.it.pt" group-title="Celebrities 🌟" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Fashion_TV_Logo.png/280px-Fashion_TV_Logo.png",Fashion Parisᴴᴰ 🇺🇸
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01546-ftv-fashiontv-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Celebrities 🌟" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Fashion_TV_Logo.png/280px-Fashion_TV_Logo.png",Fashion Midnightᴴᴰ 🇺🇸
+https://bit.ly/3WlaQCx?profile=inspirationFreetv.m3u8
+#EXTINF:-1 tvg-id="" group-title="Celebrities 🌟" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/LifeMinute.png",Life Minute TV 🇺🇸 🟤
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01468-lifeminutetv-lifeminutetv-lgau/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Celebrities 🌟" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/popstartv.png",Popstar! TV 🇺🇸 🟤
+https://linear-10.frequency.stream/dist/zype/10/hls/master/playlist_1024x576.m3u8
+#EXTINF:-1 group-title="Celebrities 🌟" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Popcorn.ico",Popcornᴴᴰ 🇫🇷 🟤
+https://dyc8bdiow0oz1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qique82ecf5q8/pcorn.m3u8
+#EXTINF:-1 tvg-id="FRBD4100002R7" group-title="Celebrities 🌟" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Popcorn.ico",Popcornᴴᴰ 🇫🇷 🟤
+https://is.gd/56CFLD?FRBD4100002R7.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Celebrities 🌟" tvg-logo="https://younghollywood.com/templates/yh2016/images/logo.png",young hollywood tvᴴᴰ 🇺🇸 🟤
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00143-younghollywoodl-younghollywood-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-id="USBC2400015DO" tvg-name="" group-title="Celebrities 🌟" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/hollywire.png",Hollywireᴴᴰ 🇺🇸 🟤
+https://bit.ly/3HrnmcY?profile=inspirationFreetv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Celebrities 🌟" tvg-logo="https://www.etonline.com/img/favicons/apple-icon-180x180.png",ET Live Entertainment Tonightᴴᴰ 🇺🇸 🟤
+https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8?iu=/8264/vaw-can/desktop/cbsNews
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Celebrities 🌟" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/LiveXone.png",LivexOne 🇺🇸 🟤
+https://bit.ly/3MrZW9C?profile=inspirationFreetv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Celebrities 🌟" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Backsgtage.webp",Backstageᴴᴰ 🇺🇸 🟤 
+https://bit.ly/4ablYZb?profile=inspirationFreetv.m3u8
+
+#EXTINF:-1 tvg-name="Mas Chic" tvg-id="MasChicPanregional.ar" group-title="Celebrities 🌟" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/variedades/mas-chic.png",MAS CHIC 🇦🇷
+http://200.115.120.1:8000/play/ca029/index.m3u8
+#EXTINF:-1 tvg-name="Mas Chic" tvg-id="MasChicPanregional.ar" group-title="Celebrities 🌟" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/variedades/mas-chic.png",MAS CHIC 🇦🇷
+http://181.78.64.71:16123/play/ch33
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Celebrities 🌟" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/hola.jpg",¡Hola! tv 🇪🇸 
+http://170.82.37.21:8000/play/a03d/index.m3u8
+#EXTINF:-1 tvg-id="ESBA1400008NE" tvg-name="" group-title="Celebrities 🌟" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/48/ESBA1400008NE_20210512T003430.png",Hola Playᴴᴰ 🇪🇸 🟤
+https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ESBA1400008NE" tvg-name="" group-title="Celebrities 🌟" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/48/ESBA1400008NE_20210512T003430.png",Hola Playᴴᴰ 🇪🇸 🟤
+https://bit.ly/3IBohsg?profile=inspirationFreetv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Celebrities 🌟" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/c509430d4b8cd272fec971908d8562bbaf644e09/GQ.svg",GQᴴᴰ 🇺🇸 🟤
+https://amg00255-condenast-gq-localnow-5sme3.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Celebrities 🌟" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/VOGUE_LOGO.svg/langfr-110px-VOGUE_LOGO.svg.png",Vogue 🇺🇸 🟤
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991138
+
+
+
+ 🔰  Lifestyle 🏡 🤳  🔰 
+
+
+
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="Lifestyle 🏡🤳" tvg-logo="https://pbs.twimg.com/media/FSk6Zq7WQAA7Cp8?format=png&name=240x240",Fitmaxx TV 🇨🇱
+https://marine2.miplay.cl/fitmaxx/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="Lifestyle 🏡🤳" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/OnTourChannel.png",On Tour Channel 🇨🇱
+https://marine2.miplay.cl/ontour/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="TheBoatShow.us" group-title="Lifestyle 🏡🤳" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/vitor_theboatshow_1.png",The Boat Showᴴᴰ 🇮🇹🇺🇸 🟤
+https://bit.ly/3O2MmMk?profile=inspirationFreetv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lifestyle 🏡🤳" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/TheBeachChannel.png",The Beach Channelᴴᴰ 🇺🇸 🟤
+https://bit.ly/3GfK2MD?profile=inspirationFreetv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lifestyle 🏡🤳" tvg-logo="https://sck.pm/ctcN",Superyacht tvᴴᴰ 🇺🇸
+https://sy.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lifestyle 🏡🤳" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/reallife.webp",Real Lifeᴴᴰ 🇺🇸 🟤
+https://lds-realfamilies-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lifestyle 🏡🤳" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/thisoldhouse.png",This Old Houseᴴᴰ 🇺🇸 🟤
+https://d22xc95vfbu1qn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-j93gtbl1whg1w-prod/amgthisoldhouse/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lifestyle 🏡🤳" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/TinyHouseNation.webp",Tiny House Nation 🇺🇸 🟤
+https://bit.ly/3vAIhYw?profile=inspirationFreetv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lifestyle 🏡🤳" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/HomeMadeNation.webp",Home.Made.Nation 🇺🇸 🟤
+https://bit.ly/3vrdSf1?profile=inspirationFreetv.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="TheBoatShow.us" group-title="Lifestyle 🏡🤳" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/AWE_Logo_%28platinum%29.jpg",AWE 🇺🇸 🟤
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00450-herringnetwork-awe-lgau/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Lifestyle 🏡🤳" tvg-logo="https://provider-static.plex.tv/epg/cms/production/52b33d5e-f48e-472d-896c-94759eccc1e4/5-Minute_Crafts_1500x1000_White.png",5 Minute Crafts 🇺🇸 🟤
+https://bit.ly/3QLfTvi?profile=inspirationFreetv.m3u8
+
+
+
+
+
