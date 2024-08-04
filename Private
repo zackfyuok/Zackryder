@@ -5846,23 +5846,6 @@ http://live4.tdm.com.mo/ch3/_definst_//ch3.live/playlist.m3u8
 
 
 
-
-
-================ Korean Channels ===================>
-
-
-#EXTINF:-1 group-title="[ SHOPEE MAYTOKO2 ]" tvg-id="arirangworld.kr" tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png", PLAYLIST INI DI SUSUN MAYTOKO2
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://melon-live-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
-
-
-#EXTINF:-1 group-title="[ SHOPEE MAYTOKO2 ]" tvg-id="arirangworld.kr" tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png", YANG DI AMBIL DARI BERBAGAI SUMBER
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://melon-live-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 <================ Korean Channels ===================>
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
