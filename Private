@@ -70,13 +70,13 @@ http://poyraz67.com:8080/TTvbrK98Db/3se14gS4p4/536666
 
 
                         ==========PIALA PRESIDEN=====
-
-#EXTINF:-1 group-title="PIALA PRESIDEN" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/haRnE_iVj2abp0ktG8igBO7l0To=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3629151/e9d68b.jpg", | Perebutan Tempat Ketiga:  Persis Solo vs Persija Jakarta - Piala Presiden 2024 
+#EXTINF:-1 tvg-id="" tvg-name="TIMNAS LIVE" tvg-logo="https://i.imgur.com/zp5pUsB.png" group-title="PIALA PRESIDEN",00.BORNEO FC vs AREMA FC - Final Piala Presiden 2024 (Live Only)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7b9e44ec21b66b14f0e3f988c272166b:4d443d5af885ec633486fef5aa3b1005
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17584_stream.mpd?hdnts=exp=1722701065~acl=/drm/dash/*~id=161571691~hmac=a3a620151224849e1eba43837ae8c16fbb248f14b4d843e0b331cc8d310b04c3
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17584_stream.mpd?hdnts=exp=1722784211~acl=/drm/dash/*~id=154015579~hmac=796e19c5689e10c2c464c4a92a60b66fe4528094821f188397c75f6d5baa58d6
+
 
 ===================================LIVE EVENT============================
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="LIVE EVENT", INDOSIAR 1
