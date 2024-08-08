@@ -117,14 +117,7 @@ http://poyraz67.com:8080/TTvbrK98Db/3se14gS4p4/536665
 http://poyraz67.com:8080/TTvbrK98Db/3se14gS4p4/536666
 
 
-                        ==========PIALA PRESIDEN=====
-#EXTINF:-1 tvg-id="" tvg-name="TIMNAS LIVE" tvg-logo="https://i.imgur.com/zp5pUsB.png" group-title="PIALA PRESIDEN",00.BORNEO FC vs AREMA FC - Final Piala Presiden 2024 (Live Only)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7b9e44ec21b66b14f0e3f988c272166b:4d443d5af885ec633486fef5aa3b1005
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17584_stream.mpd?hdnts=exp=1722784211~acl=/drm/dash/*~id=154015579~hmac=796e19c5689e10c2c464c4a92a60b66fe4528094821f188397c75f6d5baa58d6
-
+                       
 
 ===================================LIVE EVENT============================
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="LIVE EVENT", INDOSIAR 1
@@ -406,21 +399,7 @@ https://flv.intechmedia.net/live/ch107.m3u8
 
 
 
-              =======LIVE EVENT=======
-
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/moji.png", MOJI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298550
-
-
-
-
-                =====VOLI======
-
-EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/pRx4B7C-6cm_MIQakIjz26GaJns=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3614868/ea538d.jpg", | AVC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17599_720p/hdntl=exp=1722184103~acl=%2f*~id=69578335~data=hdntl~hmac=1da8bc826c5868442fab021f1ec3c7eb74fd447c615effb45c750874df478e0f/index.m3u8
+      
 
                
 
@@ -1602,47 +1581,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 
-           ========BEIN ARAB======
 
-
-#EXTINF:-1 tvg-id="beINSports1.qa" tvg-name="beINSports1.qa" tvg-logo="https://media.tv4.live/beINSports1.qa.png" group-title="BEIN AR",beIN Sports 01 AR
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/beINSports1.qa.m3u8
-
-#EXTINF:-1 tvg-id="beINSports2.qa" tvg-name="beINSports2.qa" tvg-logo="https://media.tv4.live/beINSports2.qa.png" group-title="BEIN AR",beIN Sports 02 AR
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/beINSports2.qa.m3u8
-
-#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="beINSports3.qa" tvg-logo="https://media.tv4.live/beINSports3.qa.png" group-title="BEIN AR",beIN Sports 03 AR
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/beINSports3.qa.m3u8
-
-#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="beINSports4.qa" tvg-logo="https://media.tv4.live/beINSports4.qa.png" group-title="BEIN AR",beIN Sports 04 AR
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/beINSports4.qa.m3u8
-
-#EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="beINSports5.qa" tvg-logo="https://media.tv4.live/beINSports5.qa.png" group-title="BEIN AR",beIN Sports 05 AR
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/beINSports5.qa.m3u8
-
-#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="beINSports6.qa" tvg-logo="https://media.tv4.live/beINSports6.qa.png" group-title="BEIN AR",beIN Sports 06 AR
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/beINSports6.qa.m3u8
-
-#EXTINF:-1 tvg-name="BEIN SPORTS 1 HD" tvg-logo="https://hometv.pw/logo/sports2/bein_ar.png" group-title="BEIN AR",BEIN SPORTS 1 HD (backup)
-http://iptvkita.my.id:25461/direct/hometv/1826
-
-#EXTINF:-1 tvg-name="BEIN SPORTS 2 HD" tvg-logo="https://hometv.pw/logo/sports2/bein_ar.png" group-title="BEIN AR",BEIN SPORTS 2 HD (backup)
-http://iptvkita.my.id:25461/direct/hometv/1827
-
-#EXTINF:-1 tvg-name="BEIN SPORTS 3 HD" tvg-logo="https://hometv.pw/logo/sports2/bein_ar.png" group-title="BEIN AR",BEIN SPORTS 3 HD (backup)
-http://iptvkita.my.id:25461/direct/hometv/1828
-
-#EXTINF:-1 tvg-name="BEIN SPORTS 4 HD" tvg-logo="https://hometv.pw/logo/sports2/bein_ar.png" group-title="BEIN AR",BEIN SPORTS 4 HD (backup)
-http://iptvkita.my.id:25461/direct/hometv/1829
-
-#EXTINF:-1 tvg-name="BEIN SPORTS 5 HD" tvg-logo="https://hometv.pw/logo/sports2/bein_ar.png" group-title="BEIN AR",BEIN SPORTS 5 HD (backup)
-http://iptvkita.my.id:25461/direct/hometv/1830
-
-#EXTINF:-1 tvg-name="BEIN SPORTS 6 HD" tvg-logo="https://hometv.pw/logo/sports2/bein_ar.png" group-title="BEIN AR",BEIN SPORTS 6 HD (backup)
-http://iptvkita.my.id:25461/direct/hometv/1831
-
-#EXTINF:-1 tvg-name="BEIN SPORTS 7 HD" tvg-logo="https://hometv.pw/logo/sports2/bein_ar.png" group-title="BEIN AR",BEIN SPORTS 7 HD (backup)
-http://iptvkita.my.id:25461/direct/hometv/1832
 
                  =====TSN========
 
@@ -1727,55 +1666,53 @@ http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/2790
 #EXTVLCOPT:http-referrer=https://nowtv.express.com.ar/
 https://anedgesgo.express.com.ar/live/c1eds/ESPN_HD/SA_DASH_cipix/ESPN_HD.mpd
 
-==========================ISLAM======================
+==========================RELIGI======================
 
-#EXTINF:-1 tvg-id="OmanTV.om" tvg-logo="https://i.imgur.com/rBftT9x.png" group-title="ISLAM",Oman TV (1080p)
+#EXTINF:-1 tvg-id="OmanTV.om" tvg-logo="https://i.imgur.com/rBftT9x.png" group-title="RELIGI",Oman TV (1080p)
 https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="AlJazeera.qa" tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="ISLAM",Al Jazeera Arabic (1080p)
+#EXTINF:-1 tvg-id="AlJazeera.qa" tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="RELIGI",Al Jazeera Arabic (1080p)
 https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
 #EXTINF:-1 tvg-id="RTArabic.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/0/06/RTarabic.jpg/512px-RTarabic.jpg" group-title="News",RT Arabic (1080p) [Geo-blocked]
 https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
-#EXTINF:-1 tvg-id="AlManar.lb" tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="ISLAM",Al Manar (576p) [Not 24/7]
+#EXTINF:-1 tvg-id="AlManar.lb" tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="RELIGI",Al Manar (576p) [Not 24/7]
 https://manar.live/iptv/playlist.m3u8
-#EXTINF:-1 tvg-id="AlAlam.ir" tvg-logo="https://i.imgur.com/Zdi31dy.png" group-title="ISLAM",Al Alam (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="AlAlam.ir" tvg-logo="https://i.imgur.com/Zdi31dy.png" group-title="RELIGI",Al Alam (360p) [Not 24/7]
 https://live2.alalam.ir/alalam.m3u8
-#EXTINF:-1 tvg-id="AlAqsaTV.ps" tvg-logo="https://i.imgur.com/Z2rfrQ8.png" group-title="ISLAM",Al Aqsa Channel (416p) [Not 24/7]
+#EXTINF:-1 tvg-id="AlAqsaTV.ps" tvg-logo="https://i.imgur.com/Z2rfrQ8.png" group-title="RELIGI",Al Aqsa Channel (416p) [Not 24/7]
 https://live-1.linuxway.info/aqsatv/live/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="PalestineMubasher.ps" tvg-logo="https://i.imgur.com/68llVTZ.png" group-title="ISLAM" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",Palestine Mubasher (1080p)
+#EXTINF:-1 tvg-id="PalestineMubasher.ps" tvg-logo="https://i.imgur.com/68llVTZ.png" group-title="RELIGI" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",Palestine Mubasher (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 https://pbc.furrera.ps/palestinelivehd/index.m3u8
-#EXTINF:-1 tvg-id="PalestineSatelliteChannel.ps" tvg-logo="https://i.imgur.com/4B5FvmX.png" group-title="ISLAM" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",Palestine Satellite Channel (1080p)
+#EXTINF:-1 tvg-id="PalestineSatelliteChannel.ps" tvg-logo="https://i.imgur.com/4B5FvmX.png" group-title="RELIGI" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",Palestine Satellite Channel (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 https://pbc.furrera.ps/palestinehd/index.m3u8
-#EXTINF:-1 tvg-id="PalestineToday.ps" tvg-logo="https://i.imgur.com/BS8XXug.png" group-title="ISLAM",Palestine Today (480p) [Geo-blocked]
+#EXTINF:-1 tvg-id="PalestineToday.ps" tvg-logo="https://i.imgur.com/BS8XXug.png" group-title="RELIGI",Palestine Today (480p) [Geo-blocked]
 https://live.paltodaytv.com/paltv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/Al_Jazeera_Doc.png" group-title="ISLAM",Al Jazeera Documentary (270p) [Geo-blocked]
+#EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/Al_Jazeera_Doc.png" group-title="RELIGI",Al Jazeera Documentary (270p) [Geo-blocked]
 https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicAbuDhabi.ae" tvg-logo="https://i.imgur.com/fNA00VF.png" group-title="ISLAM",National Geographic Abu Dhabi (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="NationalGeographicAbuDhabi.ae" tvg-logo="https://i.imgur.com/fNA00VF.png" group-title="RELIGI",National Geographic Abu Dhabi (1080p) [Geo-blocked]
 https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8
-#EXTINF:-1 tvg-id="AlistiqamaTV.om" tvg-logo="https://i.imgur.com/2FPtYZr.png" group-title="ISLAM",Al Istiqama TV (576p)
+#EXTINF:-1 tvg-id="AlistiqamaTV.om" tvg-logo="https://i.imgur.com/2FPtYZr.png" group-title="RELIGI",Al Istiqama TV (576p)
 https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
-#EXTINF:-1 tvg-id="AlerthAlnabawiChannel.jo" tvg-logo="https://i.imgur.com/iYibJxK.png" group-title="ISLAM",Alerth Alnabawi Channel (576p)
+#EXTINF:-1 tvg-id="AlerthAlnabawiChannel.jo" tvg-logo="https://i.imgur.com/iYibJxK.png" group-title="RELIGI",Alerth Alnabawi Channel (576p)
 http://82.212.74.2:8000/live/7307.m3u8
-#EXTINF:-1 tvg-id="HudaTV.eg" tvg-logo="https://i.imgur.com/1UUjU26.png" group-title="ISLAM",Huda TV
+#EXTINF:-1 tvg-id="HudaTV.eg" tvg-logo="https://i.imgur.com/1UUjU26.png" group-title="RELIGI",Huda TV
 https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
-#EXTINF:-1 tvg-id="IqraaArabic.sa" tvg-logo="https://i.imgur.com/HPVsIa4.png" group-title="ISLAM",Iqraa (576p) [Not 24/7]
+#EXTINF:-1 tvg-id="IqraaArabic.sa" tvg-logo="https://i.imgur.com/HPVsIa4.png" group-title="RELIGI",Iqraa (576p) [Not 24/7]
 https://jmc-live.ercdn.net/iqraa/iqraa.m3u8
-#EXTINF:-1 tvg-id="OmanTVCultural.om" tvg-logo="https://i.imgur.com/b38wNPK.png" group-title="ISLAM",Oman Althakafia (1080p)
+#EXTINF:-1 tvg-id="OmanTVCultural.om" tvg-logo="https://i.imgur.com/b38wNPK.png" group-title="RELIGI",Oman Althakafia (1080p)
 https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="OmanTVMubashir.om" tvg-logo="https://i.imgur.com/UkQTR5b.png" group-title="ISLAM",Oman Mubashir (1080p)
+#EXTINF:-1 tvg-id="OmanTVMubashir.om" tvg-logo="https://i.imgur.com/UkQTR5b.png" group-title="RELIGI",Oman Mubashir (1080p)
 https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="AlJazeeraMubasher.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Al_Jazeera_Mubasher_logo.png" group-title="ISLAM",Al Jazeera Mubasher (1080p)
+#EXTINF:-1 tvg-id="AlJazeeraMubasher.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Al_Jazeera_Mubasher_logo.png" group-title="RELIGI",Al Jazeera Mubasher (1080p)
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
-#EXTINF:-1 tvg-id="SpacetoonArabic.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="KIDS",Spacetoon (1080p)
-https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
-#EXTINF:-1 tvg-id="ToyorAlJannah.jo" tvg-logo="https://i.imgur.com/5j8z6cc.png" group-title="ISLAM",Toyor Al-Jannah (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ToyorAlJannah.jo" tvg-logo="https://i.imgur.com/5j8z6cc.png" group-title="RELIGI",Toyor Al-Jannah (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UCZbpK_Lgctew3YNELlG2ecw.m3u8
-#EXTINF:-1 tvg-id="HudhudTV.iq" tvg-logo="" group-title="ISLAM",Hudhud TV
+#EXTINF:-1 tvg-id="HudhudTV.iq" tvg-logo="" group-title="RELIGI",Hudhud TV
 http://63b03f7689049.streamlock.net:1935/live/17/playlist.m3u8
-#EXTINF:-1 tvg-id="MBC3.ae" tvg-logo="https://i.imgur.com/PVt8OPN.png" group-title="ISLAM",MBC 3 EUR (1080p)
+#EXTINF:-1 tvg-id="MBC3.ae" tvg-logo="https://i.imgur.com/PVt8OPN.png" group-title="RELIGI",MBC 3 EUR (1080p)
 https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
-#EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa" tvg-logo="https://i.imgur.com/A2fJysM.png" group-title="ISLAM",Al Quran Al Kareem TV (Mecca) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa" tvg-logo="https://i.imgur.com/A2fJysM.png" group-title="RELIGI",Al Quran Al Kareem TV (Mecca) (720p) [Not 24/7]
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 
 =====================PPV SPORTS===========
@@ -2312,7 +2249,7 @@ http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/117716
 #EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",BEINSPORTS AFC 3 SD
 http://smartbox.dynedns.ovh:80/Josepicadero/Panel93/117717
 
-#NEWS
+=================================NEWS======================================
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
