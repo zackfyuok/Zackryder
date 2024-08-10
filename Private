@@ -6,6 +6,10 @@
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-048/stream.mpd
 
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3192
+#EXTINF:-1 tvg-logo="https://ia902308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="EVENT FINAL COMUNITY" ,PT:Sport TV 2 HD
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3191
+
 
 
               ============LIVE EVENT LIGA 1======         
@@ -856,6 +860,17 @@ https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 
+
+#EXTINF:-1 tvg-logo="https://ia902308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="SPORTS TV 2" ,PT:Sport TV 1 HD
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3192
+#EXTINF:-1 tvg-logo="https://ia902308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="SPORTS TV 2" ,PT:Sport TV 2 HD
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3191
+#EXTINF:-1 tvg-logo="https://ia902308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="SPORTS TV 2" ,PT:Sport TV 3 HD
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3190
+#EXTINF:-1 tvg-logo="https://ia902308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="SPORTS TV 2" ,PT:Sport TV 4 HD
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3189
+#EXTINF:-1 tvg-logo="https://ia902308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="SPORTS TV 2" ,PT:Sport TV 5 HD
+http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3188
 
 
    =========BEIN|AR=======
@@ -2359,16 +2374,7 @@ https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227877/32
 #EXTINF:-1 tvg-chno="413" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="SPORTS",L'ÉQUIPE LIVE FOOT
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipelive5.m3u8
 
-#EXTINF:-1 tvg-logo="https://ia902308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="SPORTS TV 2" ,PT:Sport TV 1 HD
-http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3192
-#EXTINF:-1 tvg-logo="https://ia902308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="SPORTS TV 2" ,PT:Sport TV 2 HD
-http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3191
-#EXTINF:-1 tvg-logo="https://ia902308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="SPORTS TV 2" ,PT:Sport TV 3 HD
-http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3190
-#EXTINF:-1 tvg-logo="https://ia902308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="SPORTS TV 2" ,PT:Sport TV 4 HD
-http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3189
-#EXTINF:-1 tvg-logo="https://ia902308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="SPORTS TV 2" ,PT:Sport TV 5 HD
-http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3188
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="RS: Sport Klub" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d2c5dc85785e9c070002066c2c7865ec.png" group-title="SPORTS",RS: Sport Klub
