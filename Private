@@ -47,7 +47,7 @@ http://melon-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #EXTINF:-1 group-title="LOKAL HD" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/inews.png", iNews 
 http://melon-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
-#EXTINF:-1 group-title="🔴NASIONAL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/SCTV-1.png", SCTV
+#EXTINF:-1 group-title="LOKAL HD" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/SCTV-1.png", SCTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -590,7 +590,7 @@ https://thedream.biz.id/live/transtujuh.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_transtv_ver2.png" group-title="LOKAL ID|3l",Transtv (V+)
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_transtv_ver2.png" group-title="LOKAL ID|3",Transtv (V+)
 https://melon-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
