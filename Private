@@ -1,15 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/tQx6Zzk/daznxeleven.png" group-title="EVENT FINAL COMUNITY" , DAZN ELEVEN 1 🇧🇪
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-048/stream.mpd
-
-http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3192
-#EXTINF:-1 tvg-logo="https://ia902308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="EVENT FINAL COMUNITY" ,PT:Sport TV 2 HD
-http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3191
-
 
 
               ============LIVE EVENT LIGA 1======         
@@ -17,14 +6,17 @@ http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/3191
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_99.png" group-title="LIVE EVENT LIGA 1",Sportstars 3 HD
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_99.png" group-title="LIVE EVENT",Sportstars 3 HD
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_88.png" group-title="LIVE EVENT LIGA 1",Sportstars 4 HD
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_88.png" group-title="LIVE EVENT",Sportstars 4 HD
 https://cempedak-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", INDOSIAR 
+http://iptvtree.net:8080/e891d265/89d742c3/162138
 
 
 
@@ -803,42 +795,42 @@ https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-501/stream.mpd
        ========ELEVENT PT======
 
  
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 1.pt" tvg-logo="https://iili.io/JXBspKQ.png" group-title="DAZN ELEVEN",Eleven 1 PT
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 1.pt" tvg-logo="https://iili.io/JXBspKQ.png" group-title="DAZN ELEVEN PT",Eleven 1 PT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-054/stream.mpd
 
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 2.pt" tvg-logo="https://iili.io/JXBsbix.png" group-title="DAZN ELEVEN",Eleven 2 PT
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 2.pt" tvg-logo="https://iili.io/JXBsbix.png" group-title="DAZN ELEVEN PT",Eleven 2 PT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-055/stream.mpd
 
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 3.pt" tvg-logo="https://iili.io/JXBstob.png" group-title="DAZN ELEVEN",Eleven 3 PT
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 3.pt" tvg-logo="https://iili.io/JXBstob.png" group-title="DAZN ELEVEN PT",Eleven 3 PT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-056/stream.mpd
 
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 4.pt" tvg-logo="https://iili.io/JXBsQDu.png" group-title="DAZN ELEVEN",Eleven 4 PT
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 4.pt" tvg-logo="https://iili.io/JXBsQDu.png" group-title="DAZN ELEVEN PT",Eleven 4 PT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-057/stream.mpd
 
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 5.pt" tvg-logo="https://iili.io/JXBsylV.png" group-title="DAZN ELEVEN",Eleven 5 PT
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 5.pt" tvg-logo="https://iili.io/JXBsylV.png" group-title="DAZN ELEVEN PT",Eleven 5 PT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-058/stream.mpd
 
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 6.pt" tvg-logo="https://iili.io/JXBL9UB.png" group-title="DAZN ELEVEN",Eleven 6 PT
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 6.pt" tvg-logo="https://iili.io/JXBL9UB.png" group-title="DAZN ELEVEN PT",Eleven 6 PT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -894,16 +886,6 @@ http://elprofessor.otts.pro:80/omarHusby2412/PCRAGX1VED/618277
 
 #EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="beINSports6.qa" tvg-logo="https://media.tv4.live/beINSports6.qa.png" group-title="🔴BEIN|AR",beIN 6
 http://elprofessor.otts.pro:80/omarHusby2412/PCRAGX1VED/618276
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -7149,7 +7131,181 @@ https://stream.streamaudio.de:8000/teststream3
 #EXTINF:-1 tvg-logo="https://iili.io/JmS5oP9.png" group-title="Internet Radio",Pro 5 RRI Surabaya
 https://stream-node1.rri.co.id/streaming/41/8941/chlima.mp3
 
+===============================VOD NEW
 
+#EXTINF:-1 channel-id="2.1" tvg-id="I2.1.19567.zap2it.com" group-title="VOD NEW" tvg-name="KCBSDT", CBS 2
+http://192.168.0.37:50960/channels/3932.ts
+
+#EXTINF:-1 channel-id="2.2" tvg-id="I2.2.88571.zap2it.com" group-title="VOD NEW" tvg-name="KCBSDT2", Start TV
+http://192.168.0.37:50960/channels/3933.ts
+
+#EXTINF:-1 channel-id="2.3" tvg-id="I2.3.112431.zap2it.com" group-title="VOD NEW" tvg-name="KCBSDT3", Dabl
+http://192.168.0.37:50960/channels/3934.ts
+
+#EXTINF:-1 channel-id="4.1" tvg-id="I4.1.19568.zap2it.com" group-title="VOD NEW" tvg-name="KNBCDT", NBC 4
+http://192.168.0.37:50960/channels/3949.ts
+
+#EXTINF:-1 channel-id="4.2" tvg-id="I4.2.45764.zap2it.com" group-title="VOD NEW" tvg-name="KNBCDT2", Cozi TV
+http://192.168.0.37:50960/channels/3950.ts
+
+#EXTINF:-1 channel-id="4.3" tvg-id="I4.3.114892.zap2it.com" group-title="VOD NEW" tvg-name="KNBCDT3", LX
+http://192.168.0.37:50960/channels/3951.ts
+
+#EXTINF:-1 channel-id="5.1" tvg-id="I5.1.19515.zap2it.com" group-title="VOD NEW" tvg-name="KTLADT", KTLA 5
+http://192.168.0.37:50960/channels/3945.ts
+
+#EXTINF:-1 channel-id="5.2" tvg-id="I5.2.63335.zap2it.com" group-title="VOD NEW" tvg-name="KTLADT2", Antenna
+http://192.168.0.37:50960/channels/3946.ts
+
+#EXTINF:-1 channel-id="5.3" tvg-id="I5.3.70319.zap2it.com" group-title="VOD NEW" tvg-name="KTLADT3", Court TV
+http://192.168.0.37:50960/channels/3947.ts
+
+#EXTINF:-1 channel-id="5.4" tvg-id="I5.4.106857.zap2it.com" group-title="VOD NEW" tvg-name="KTLADT4", TBD TV
+http://192.168.0.37:50960/channels/3948.ts
+
+#EXTINF:-1 channel-id="7.1" tvg-id="I7.1.19570.zap2it.com" group-title="VOD NEW" tvg-name="KABCDT", ABC 7
+http://192.168.0.37:50960/channels/3840.ts
+
+#EXTINF:-1 channel-id="7.2" tvg-id="I7.2.42615.zap2it.com" group-title="VOD NEW" tvg-name="KABCDT2", Localish
+http://192.168.0.37:50960/channels/3841.ts
+
+#EXTINF:-1 channel-id="7.3" tvg-id="I7.3.42616.zap2it.com" group-title="VOD NEW" tvg-name="KABCDT3", Laff
+http://192.168.0.37:50960/channels/3842.ts
+
+#EXTINF:-1 channel-id="11.1" tvg-id="I11.1.20450.zap2it.com" group-title="VOD NEW" tvg-name="KTTVDT", FOX 11 HD
+http://192.168.0.37:50960/channels/3845.ts
+
+#EXTINF:-1 channel-id="11.2" tvg-id="I11.2.66342.zap2it.com" group-title="VOD NEW" tvg-name="KTTVDT2", FOX 11
+http://192.168.0.37:50960/channels/3857.ts
+
+#EXTINF:-1 channel-id="11.4" tvg-id="I11.4.112522.zap2it.com" group-title="VOD NEWF" tvg-name="KTTVDT4", Decades
+http://192.168.0.37:50960/channels/3846.ts
+
+#EXTINF:-1 channel-id="13.1" tvg-id="I13.1.19653.zap2it.com" group-title="VOD NEW" tvg-name="KCOPDT", My13
+http://192.168.0.37:50960/channels/3859.ts
+
+#EXTINF:-1 channel-id="13.2" tvg-id="I13.2.66849.zap2it.com" group-title="VOD NEW" tvg-name="KCOPDT2", Buzzr
+http://192.168.0.37:50960/channels/3860.ts
+
+#EXTINF:-1 channel-id="13.3" tvg-id="I13.3.81337.zap2it.com" group-title="VOD NEW" tvg-name="KCOPDT3", Movies!
+http://192.168.0.37:50960/channels/3861.ts
+
+#EXTINF:-1 channel-id="13.4" tvg-id="I13.4.97062.zap2it.com" group-title="VOD NEW" tvg-name="KCOPDT4", Heroes & Icons
+http://192.168.0.37:50960/channels/3862.ts
+
+#EXTINF:-1 channel-id="18.1" tvg-id="I18.1.29035.zap2it.com" group-title="VOD NEW" tvg-name="KSCIDT", LA18
+http://192.168.0.37:50960/channels/3863.ts
+
+#EXTINF:-1 channel-id="18.2" tvg-id="I18.2.37213.zap2it.com" group-title="VOD NEW" tvg-name="KSCIDT2", SBS
+http://192.168.0.37:50960/channels/3864.ts
+
+#EXTINF:-1 channel-id="18.3" tvg-id="I18.3.50920.zap2it.com" group-title="VOD NEW" tvg-name="KSCIDT3", MBC
+http://192.168.0.37:50960/channels/3865.ts
+
+#EXTINF:-1 channel-id="28.1" tvg-id="I28.1.24020.zap2it.com" group-title="VOD NEW" tvg-name="KCETDT", KCET HD
+http://192.168.0.37:50960/channels/3865.ts
+
+#EXTINF:-1 channel-id="28.2" tvg-id="I28.2.35413.zap2it.com" group-title="VOD NEW" tvg-name="KCETDT2", KCETLnk
+http://192.168.0.37:50960/channels/3900.ts
+
+#EXTINF:-1 channel-id="28.3" tvg-id="I28.3.55374.zap2it.com" group-title="VOD NEW" tvg-name="KCETDT3", NHK
+http://192.168.0.37:50960/channels/3901.ts
+
+#EXTINF:-1 channel-id="30.1" tvg-id="I30.1.49814.zap2it.com" group-title="VOD NEW" tvg-name="KPXNDT", ION
+http://192.168.0.37:50960/channels/3891.ts
+
+#EXTINF:-1 channel-id="30.2" tvg-id="I30.2.50512.zap2it.com" group-title="VOD NEW" tvg-name="KPXNDT2", qubo
+http://192.168.0.37:50960/channels/3892.ts
+
+#EXTINF:-1 channel-id="34.1" tvg-id="I34.1.43048.zap2it.com" group-title="VOD NEW" tvg-name="KMEXDT", Univision 34
+http://192.168.0.37:50960/channels/3940.ts
+
+#EXTINF:-1 channel-id="34.2" tvg-id="I34.2.44017.zap2it.com" group-title="VOD NEW" tvg-name="KMEXDT2", Unimás
+http://192.168.0.37:50960/channels/3941.ts
+
+#EXTINF:-1 channel-id="34.3" tvg-id="I34.3.92056.zap2it.com" group-title="VOD NEW" tvg-name="KMEXDT3", Bounce
+http://192.168.0.37:50960/channels/3942.ts
+
+#EXTINF:-1 channel-id="34.4" tvg-id="I34.4.100352.zap2it.com" group-title="VOD NEW" tvg-name="KMEXDT4", Justice Network
+http://192.168.0.37:50960/channels/3943.ts
+
+#EXTINF:-1 channel-id="44.8" tvg-id="I44.8.67721.zap2it.com" group-title="VOD NEW" tvg-name="KXLADT8", KBS 24
+http://192.168.0.37:50960/channels/3922.ts
+
+#EXTINF:-1 channel-id="46.1" tvg-id="I46.1.53123.zap2it.com" group-title="VOD NEW" tvg-name="KFTRDT", UniMas
+http://192.168.0.37:50960/channels/3910.ts
+
+#EXTINF:-1 channel-id="46.2" tvg-id="I46.2.67461.zap2it.com" group-title="VOD NEW" tvg-name="KFTRDT2", GetTV
+http://192.168.0.37:50960/channels/3911.ts
+
+#EXTINF:-1 channel-id="46.3" tvg-id="I46.3.90181.zap2it.com" group-title="VOD NEW" tvg-name="KFTRDT3", ESCAPE
+http://192.168.0.37:50960/channels/3912.ts
+
+#EXTINF:-1 channel-id="46.4" tvg-id="I46.4.90182.zap2it.com" group-title="VOD NEW" tvg-name="KFTRDT4", GRIT
+http://192.168.0.37:50960/channels/3913.ts
+
+#EXTINF:-1 channel-id="46.5" tvg-id="I46.5.107681.zap2it.com" group-title="VOD NEW" tvg-name="KFTRDT5", Quest
+http://192.168.0.37:50960/channels/3914.ts
+
+#EXTINF:-1 channel-id="50.1" tvg-id="I50.1.34544.zap2it.com" group-title="VOD NEW" tvg-name="KOCEDT", PBS HD
+http://192.168.0.37:50960/channels/3869.ts
+
+#EXTINF:-1 channel-id="50.2" tvg-id="I50.2.46525.zap2it.com" group-title="VOD NEW" tvg-name="KOCEDT2", PBS-2
+http://192.168.0.37:50960/channels/3870.ts
+
+#EXTINF:-1 channel-id="50.4" tvg-id="I50.4.58716.zap2it.com" group-title="VOD NEW" tvg-name="KOCEDT4", PBS World
+http://192.168.0.37:50960/channels/3872.ts
+
+#EXTINF:-1 channel-id="50.5" tvg-id="I50.5.102014.zap2it.com" group-title="VOD NEW" tvg-name="KOCEDT5", PBS SoCal Kids
+http://192.168.0.37:50960/channels/3873.ts
+
+#EXTINF:-1 channel-id="52.1" tvg-id="I52.1.42678.zap2it.com" group-title="VOD NEW" tvg-name="KVEADT", Telemundo 52
+http://192.168.0.37:50960/channels/3897.ts
+
+#EXTINF:-1 channel-id="52.2" tvg-id="I52.2.64573.zap2it.com" group-title="VOD NEW" tvg-name="KVEADT2", TelXtos
+http://192.168.0.37:50960/channels/3898.ts
+
+#EXTINF:-1 channel-id="54.1" tvg-id="I54.1.43286.zap2it.com" group-title="VOD NEW" tvg-name="KAZADT", MeTV HD
+http://192.168.0.37:50960/channels/4086.ts
+
+#EXTINF:-1 channel-id="54.2" tvg-id="I54.2.66282.zap2it.com" group-title="VOD NEW" tvg-name="KAZADT", Decades
+http://192.168.0.37:50960/channels/4087.ts
+
+#EXTINF:-1 channel-id="56.1" tvg-id="I56.1.43284.zap2it.com" group-title="VOD NEW" tvg-name="KDOCDT", KDOC
+http://192.168.0.37:50960/channels/3852.ts
+
+#EXTINF:-1 channel-id="56.3" tvg-id="I56.3.60864.zap2it.com" group-title="VOD NEW" tvg-name="KDOCDT3", MeTV SD
+http://192.168.0.37:50960/channels/3855.ts
+
+#EXTINF:-1 channel-id="56.4" tvg-id="I56.4.72461.zap2it.com" group-title="VOD NEW" tvg-name="KDOCDT4", Comet
+http://192.168.0.37:50960/channels/3847.ts
+
+#EXTINF:-1 channel-id="56.6" tvg-id="I56.6.99692.zap2it.com" group-title="VOD NEW" tvg-name="KDOCDT6", ThisTV
+http://192.168.0.37:50960/channels/3853.ts
+
+#EXTINF:-1 channel-id="56.8" tvg-id="I56.8.97556.zap2it.com" group-title="VOD NEW" tvg-name="KDOCDT8", Charge!
+http://192.168.0.37:50960/channels/3856.ts
+
+#EXTINF:-1 channel-id="57.1" tvg-id="I57.1.50395.zap2it.com" group-title="VOD NEW" tvg-name="KJLADT", Azteca
+http://192.168.0.37:50960/channels/3926.ts
+
+#EXTINF:-1 channel-id="58.1" tvg-id="I58.1.43777.zap2it.com" group-title="VOD NEW" tvg-name="KLCSDT", PBS KLCS
+http://192.168.0.37:50960/channels/3902.ts
+
+#EXTINF:-1 channel-id="58.2" tvg-id="I58.2.43779.zap2it.com" group-title="VOD NEW" tvg-name="KLCSDT2", Kids KLCS
+http://192.168.0.37:50960/channels/3903.ts
+
+#EXTINF:-1 channel-id="58.3" tvg-id="I58.3.43780.zap2it.com" group-title="VOD NEW" tvg-name="KLCSDT3", Create
+http://192.168.0.37:50960/channels/3904.ts
+
+#EXTINF:-1 channel-id="62.1" tvg-id="I62.1.35352.zap2it.com" group-title="VOD NEW" tvg-name="KRCADT", Estrella TV
+http://192.168.0.37:50960/channels/3843.ts
+
+#EXTINF:-1 channel-id="62.2" tvg-id="I62.2.83320.zap2it.com" group-title="VOD NEW" tvg-name="KRCADT2", Estrella Dos
+http://192.168.0.37:50960/channels/3844.ts
+
+#EXTINF:-1 channel-id="64.1" tvg-id="I64.1.54495.zap2it.com" group-title="VOD NEW" tvg-name="KILMDT", ION
+http://192.168.0.37:50960/channels/3896.ts
 
 
 
