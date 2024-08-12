@@ -1,9 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="JOAN GAMPERS " ,BARCA TV
-http://93.152.174.144:4000/play/barcatv/index.m3u8
-
 
               ============LIVE EVENT LIGA 1======         
 
@@ -11,6 +8,8 @@ http://93.152.174.144:4000/play/barcatv/index.m3u8
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", INDOSIAR 
 http://iptvtree.net:8080/e891d265/89d742c3/162138
+
+
 
 
 LIVE EVENT 2=============================
