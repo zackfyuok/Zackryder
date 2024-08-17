@@ -716,7 +716,31 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
- 
+
+
+
+@@@@@@@ ELEVEN SPORTS @@@@@@@
+
+
+
+
+#EXTINF:-1 tvg-country="BE" tvg-logo="http://worldiptv.xyz/chlogos/ElevenSports1NL.be.png" group-title="Eleven Sports",Eleven Sports 1 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/135975?checkedby:iptvcat.com
+
+
+
+
+#EXTINF:-1 tvg-country="BE" tvg-logo="http://worldiptv.xyz/chlogos/ElevenSports1NL.be.png" group-title="Eleven Sports",Eleven Sports 2 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/135976?checkedby:iptvcat.com
+
+
+
+
+#EXTINF:-1 tvg-country="BE" tvg-logo="http://worldiptv.xyz/chlogos/ElevenSports1NL.be.png" group-title="Eleven Sports",Eleven Sports 3 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/135977?checkedby:iptvcat.com
+
+
+
 
                     =========DAZN=======
 
