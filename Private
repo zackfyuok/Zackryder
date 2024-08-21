@@ -849,6 +849,13 @@ http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/2789
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/2790
 
 
+======================================PLAY SPORTS=============
+#EXTINF:-1 xui-id="149" tvg-id="" tvg-name="Play Sports 1" tvg-logo="https://i.imgur.com/E2wVMVk.jpeg" group-title="PLAY SPORTS",Play Sports 1
+http://103.127.99.190:80/play/ZacwcMgce4_cNW_Q3AOJh0IBEvQAx_LxZXNF0HPclV8/ts
+#EXTINF:-1 xui-id="150" tvg-id="" tvg-name="Play Sports 2" tvg-logo="https://i.imgur.com/E2wVMVk.jpeg" group-title="PLAY SPORTS",Play Sports 2
+http://103.127.99.190:80/play/ZacwcMgce4_cNW_Q3AOJh4H-SZw38kWrz0xV4EhpfLY/ts
+#EXTINF:-1 xui-id="262" tvg-id="" tvg-name="Play Sports 3" tvg-logo="https://i.imgur.com/E2wVMVk.jpeg" group-title="PLAY SPORTS",Play Sports 3
+http://103.127.99.190:80/play/ZacwcMgce4_cNW_Q3AOJh9b7f5u8LZ00S6TRHeA7Rag/ts
 
           =========SSC=======
 
@@ -2211,14 +2218,6 @@ https://tglmp03.akamaized.net/out/v1/435d5ae6f4734fde963642147a852bfb/manifest.m
 #EXTINF:-1 group-title="Singapore" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-id="" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%275714418%27&EntityType=%27Item%27&EntityId=%2797073%27&Width=300&Height=78&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",meWATCH LIVE 1
 https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
 
-
-======================================PLAY SPORTS=============
-#EXTINF:-1 xui-id="149" tvg-id="" tvg-name="Play Sports 1" tvg-logo="https://i.imgur.com/E2wVMVk.jpeg" group-title="PLAY SPORTS",Play Sports 1
-http://103.127.99.190:80/play/ZacwcMgce4_cNW_Q3AOJh0IBEvQAx_LxZXNF0HPclV8/ts
-#EXTINF:-1 xui-id="150" tvg-id="" tvg-name="Play Sports 2" tvg-logo="https://i.imgur.com/E2wVMVk.jpeg" group-title="PLAY SPORTS",Play Sports 2
-http://103.127.99.190:80/play/ZacwcMgce4_cNW_Q3AOJh4H-SZw38kWrz0xV4EhpfLY/ts
-#EXTINF:-1 xui-id="262" tvg-id="" tvg-name="Play Sports 3" tvg-logo="https://i.imgur.com/E2wVMVk.jpeg" group-title="PLAY SPORTS",Play Sports 3
-http://103.127.99.190:80/play/ZacwcMgce4_cNW_Q3AOJh9b7f5u8LZ00S6TRHeA7Rag/ts
 
 
 
